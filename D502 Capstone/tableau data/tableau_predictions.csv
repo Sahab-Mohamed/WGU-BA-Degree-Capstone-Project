@@ -1,0 +1,1762 @@
+y_true,proba_logistic_regression,pred_logistic_regression,proba_random_forest,pred_random_forest,risk_band,risk_band_order,prob_bin,actual_churn,pred_rf_label
+0,0.1630823699180506,0,0.4779990683554703,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.5756576777543633,1,0.5782807806784057,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0221627669669053,0,0.2334686141805341,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.6818053201888717,1,0.7478845363371603,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0059596292709033,0,0.2433689444390218,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.8216673264584243,1,0.7468221683288618,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.3135848656110642,0,0.5455881378458871,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0332074758443676,0,0.2383633386137876,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.437077472384399,0,0.6100714259834544,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.5382051746098578,1,0.6842148341075405,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0671043492744037,0,0.4371224215884366,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0181975497764379,0,0.2959294115182311,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.717285139802771,1,0.7115018899177842,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.4526687414689959,0,0.3671943462342363,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.0277638448432612,0,0.2330904934011491,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.542240561248678,1,0.6073046132188613,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.3190052917502064,0,0.4776990216169084,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.2957029268771559,0,0.6142215033939182,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0126710875994584,0,0.236317185640445,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.5090871572355024,1,0.6614477386106974,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.1285831394161151,0,0.4493648626666895,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.1165610588174026,0,0.376952594445003,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0373678322624532,0,0.2699985075478018,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1557050892053319,0,0.2867933901489763,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.4119705540114206,0,0.5274199221092905,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0666431676807347,0,0.3454128125681264,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0930910014756535,0,0.3672389795223174,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0068050229134963,0,0.1462636512889861,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1003938564299364,0,0.2663057102077626,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.6608405651437307,1,0.6258416204798118,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.5531862147900984,1,0.7421970083623113,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.3300268275234296,0,0.5272451688956645,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.4185375162711138,0,0.6090460197150812,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.1403110985819617,0,0.2514697498467675,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.8760293356552231,1,0.7604046952766218,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.2003241714203623,0,0.3976622305221068,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.223811877567424,0,0.4672229612092151,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.5299105117508355,1,0.570612930573724,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0250341943695745,0,0.1546518268783883,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0495430525008347,0,0.2998077205754299,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0870594316079091,0,0.3362207674176409,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0031949781464613,0,0.1675417009212518,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0812517951391748,0,0.3385519819950582,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.8234849579201963,1,0.748673149828929,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.1297989461199997,0,0.4057892249817539,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.7169731614046023,1,0.5991289436738124,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.8456508516926868,1,0.6804166820537506,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0091450150464663,0,0.1582102761998708,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.541862672271128,1,0.7266567689895242,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.1555729883286707,0,0.2925226951756565,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.5665634137800661,1,0.6157432396341801,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.3496422072148633,0,0.5714228836296944,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.227564373979216,0,0.5082654850092881,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.2515435311298617,0,0.5371290659717325,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0086769311746643,0,0.2401782725258885,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.5947861657989799,1,0.7044179829174549,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.1040534252522324,0,0.3404207193710916,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.3704091340217277,0,0.5149295566569397,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0131516408110216,0,0.1931773151321664,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.7041317186183572,1,0.743079010113145,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0089057707680902,0,0.2804572715637174,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0388634225710268,0,0.1774630474034061,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.3674082853248449,0,0.6648548944452896,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.7811196390760082,1,0.7015849944185448,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.370553292453851,0,0.614481347087348,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.1145687968125148,0,0.4571184189011143,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.5201309454524801,1,0.731785949997572,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.2719060049192843,0,0.5089802586449451,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0350683995765286,0,0.3265302959338227,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.7520641580900942,1,0.7658070220608019,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.0135460639753786,0,0.1696034904014142,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0034739105237317,0,0.2093559177448674,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.2742122472539077,0,0.5081125317327034,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0577090917758489,0,0.3817004817142105,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.4295237638946272,0,0.2912300305936784,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.3747440440315324,0,0.5083290597123198,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.4770658569910111,0,0.6320990809671684,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.5611788715259017,1,0.5650539633682474,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+1,0.8053453265071484,1,0.6840113464315034,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.3824187982782567,0,0.6809333653018834,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0904475574003466,0,0.4725282581992293,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.321596994087465,0,0.5785358525768813,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.2037699515114281,0,0.5094937345008573,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.7909733228144397,1,0.7534866150109635,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.2689308024094718,0,0.3943589957689357,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.6334152640180881,1,0.7317975290577705,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.0705577933849971,0,0.3330268095225684,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.5438813939335472,1,0.4816167077985419,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1958255560223186,0,0.2867933901489763,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.1749593843576452,0,0.4960713465574751,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.3291733908978208,0,0.4434738432783746,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.066002237866735,0,0.3478544454669259,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.306048419305098,0,0.58603815932759,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.2347211233105758,0,0.6053985540415314,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.1011454206330653,0,0.2157572024228817,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0240696219602295,0,0.2228853156560302,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1868836855498707,0,0.2897615880733157,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0265821035399838,0,0.366002803919248,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.0737693811879855,0,0.3867921993870826,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+1,0.7440429215053959,1,0.7370937440509147,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.1907859103420287,0,0.5258580746229833,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.8084528601143353,1,0.7399024289176894,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.000911153560795,0,0.1139777456927292,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1636906973798073,0,0.4356854194831425,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0910440061034139,0,0.345242832343977,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.039268882284571,0,0.3564557116068803,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.01782988321558,0,0.35289219726962,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0116817181988157,0,0.1276959529271533,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.4524396680909634,0,0.5933251228654416,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.472547353866834,0,0.5968925671917554,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.5288787074496908,1,0.728642033755656,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.2418924339533392,0,0.5360328663683612,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.6386078520655042,1,0.643662765664902,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.1561199825272521,0,0.5062103280242404,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+1,0.5654234296465177,1,0.6034500763254108,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.6209061320185152,1,0.732514427567239,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.2978803765264752,0,0.5718640168012424,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.7201819890285313,1,0.771325181020582,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.1486590829804845,0,0.2301779390020517,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0023688161933185,0,0.1235852068553473,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1018732559618922,0,0.3624272147160687,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.2656463061816861,0,0.5356693063321127,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.049732054844055,0,0.1840568910272766,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.5046788997366746,1,0.6719501486360526,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.3498530242690598,0,0.5854059987480446,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+1,0.6861121603567713,1,0.5502605231381381,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0078073601979421,0,0.2657829415485635,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.6502718621566043,1,0.6937058127919663,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.2225460316542198,0,0.5646760273577148,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+1,0.0323430823091145,0,0.3868017135451514,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.0313935560642665,0,0.1707801934889999,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.7678895222819252,1,0.6614498599152262,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.655310313749672,1,0.679014402042096,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.4086061134424627,0,0.5565339560743243,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.3815300525619752,0,0.7373342026726385,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.7732816064860252,1,0.7407964833216186,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.2337969252640563,0,0.4946872039923419,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.7642948297267269,1,0.7474362546723454,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0085586892510211,0,0.2898910845752642,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.3916127387615553,0,0.6472206514606113,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.2353591382479467,0,0.473716011887965,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.7455456149323978,1,0.6498293168890372,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0419073660210051,0,0.3038961365215102,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0069898954602905,0,0.3318322849042958,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0892298173706642,0,0.1953101099620298,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.00694844184384,0,0.2801257436521381,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.8428336245721133,1,0.7417436045030237,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.299496387238901,0,0.4234234664297473,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.2798949767051267,0,0.5064794469228949,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.8176566653367635,1,0.7609423642851457,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.6004029126951154,1,0.7287794787779283,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.2297213228265051,0,0.3814087033820461,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.6100227188498138,1,0.6782312207751505,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0684491225126856,0,0.3284314937172082,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.5883888686416999,1,0.687923649359453,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.3461237683403058,0,0.6540331715942833,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.22382328813918,0,0.4884308003538736,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.1168495891136151,0,0.4055830872085008,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.1899452478492593,0,0.4971211652662074,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.0303806326849658,0,0.326160220079026,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.415509606974178,0,0.6063442661700313,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0218390601979061,0,0.1648261573277084,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.6755412603960567,1,0.6562770014384576,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.4343253264818842,0,0.6358711195763032,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.2338129500300731,0,0.4746277071352661,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+1,0.4406390675317133,0,0.6420006589410778,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0615870905399847,0,0.2930484093539015,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.616301349452382,1,0.6813420267076257,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.6153114639156431,1,0.6753308303218543,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0014329252649235,0,0.1109862097489656,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.2177678463030036,0,0.4897777517289201,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.6952895133051287,1,0.7560268318892517,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+1,0.6130519042336432,1,0.6710737128695756,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0309156129706139,0,0.327524688911345,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0101892421956,0,0.2129965966406342,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0738130623038212,0,0.2387769489154667,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.4640682056910828,0,0.6317162263077372,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.1510326680671444,0,0.4379197036076979,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.6957122186474084,1,0.6712892630438044,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0955029052404645,0,0.1766253687924717,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.7981448672106998,1,0.7300419564055558,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.5842876988630106,1,0.6504096339608122,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.1939196997380002,0,0.3378349796842769,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.0050032436423989,0,0.1479791291480946,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1953370569632789,0,0.4592380111820437,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.2032880975105864,0,0.4269456371857527,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.7304333170068431,1,0.6895372648155245,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0003279295711132,0,0.1158210994757318,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0043518905369824,0,0.1698671846111484,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.4885177256230911,0,0.6207349223226053,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.3122475031518518,0,0.554362116103409,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.1905503346939972,0,0.3217297943458021,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0050489323746629,0,0.2511892792018153,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.5092323057315427,1,0.582414625864677,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0190857817969717,0,0.3010775092454326,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.6966966670053317,1,0.735451272316493,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.152265418194661,0,0.4539373042728924,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.024502992459813,0,0.3078011818456012,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.8150583845061106,1,0.7495924674596468,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.4155584846030574,0,0.4973446675505609,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.5251912568328354,1,0.6736543919552558,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0089741669940654,0,0.1854105881224642,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.5431470797379307,1,0.637073909757728,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.6535068311096242,1,0.615563354022922,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0047616972119614,0,0.1371721535962786,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0055581048800699,0,0.2352513624180238,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0205179902431789,0,0.2328522630169984,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.4797118682273877,0,0.6630582481588857,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.7609117565307078,1,0.7406333550385138,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.5389678212733101,1,0.679627308261334,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.032075722545034,0,0.2382874656901599,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0056652793116564,0,0.1445920859642425,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0122079745909216,0,0.1368754096602763,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.5751679377365164,1,0.5140511220049093,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0456159598537909,0,0.3885239955358579,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0090400491025166,0,0.1992476580096272,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0074089011807766,0,0.236730828946757,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0860742534153265,0,0.4422998532854738,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.040853766340663,0,0.3435311742666993,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.6495243743586465,1,0.7475207450588728,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.2280615903875947,0,0.4616290196289235,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.6488759400951458,1,0.6974553621355711,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.4940414457420735,0,0.5846330469381966,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.000695315267621,0,0.1169953025623507,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.4880186981581568,0,0.5813249695278233,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.4430716183791462,0,0.4771988013832297,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.3130925567099245,0,0.5828035794852405,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0718755435512845,0,0.3086719107850125,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2371758272305236,0,0.2655657184213813,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0075165117437151,0,0.2413141797303323,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.7497600820146955,1,0.6612106914684478,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.4406224452150108,0,0.6780569922646937,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.1495414936561729,0,0.4296406687786496,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0034171518359859,0,0.1778906868237661,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0105895702398072,0,0.2423898782163877,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0075591914379473,0,0.2682237260741965,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.2180026549812339,0,0.6302980614839663,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.6388081372258105,1,0.6731179587428174,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0213863198675566,0,0.341628542889691,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0395924058719041,0,0.3390227971265359,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.6175013457861225,1,0.7110457707425323,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.4824416232107557,0,0.6214853917760821,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0078901759198662,0,0.1757513006592844,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0121561246570148,0,0.1862207838627302,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.108584949262612,0,0.4390698838226213,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.7290910768567984,1,0.7273044482621508,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.7141623987166016,1,0.6286842717576906,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0256046246280659,0,0.2296746006858094,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.5057178182774558,1,0.6747427750006311,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0420868316738672,0,0.3525396522555402,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.2549102437819998,0,0.5463837599215345,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0444124714323971,0,0.261877147958672,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1045983977525381,0,0.2385419880864975,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0009131380783059,0,0.1106541327112751,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0874149467591492,0,0.3947665444431305,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0881680337555101,0,0.4218917221163676,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0569679592678709,0,0.3888827934784393,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.256638683349027,0,0.3882580257453683,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0379613921243143,0,0.3331547939171781,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0027918879607614,0,0.1528803522753747,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0015678124288065,0,0.112251016374579,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.012071257788989,0,0.2515860984883028,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0349136796142582,0,0.3313029677264202,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.6622488124905583,1,0.6421830803791114,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0013780762317207,0,0.119830203825952,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.2998993047339136,0,0.5502188132955195,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0447003563741049,0,0.3862606868335008,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.4843403976012866,0,0.653890436860583,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0077995743262559,0,0.167742562872656,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0132779299543465,0,0.3103436301952635,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2927927579226341,0,0.5416969417759965,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0052218761176362,0,0.2401886612150691,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.6790568721308036,1,0.7350195881836666,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.5010446603110642,1,0.5749670215207643,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0266966822072689,0,0.2164314857152051,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0531027192163725,0,0.388684428491289,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0466560155476725,0,0.3560845410445117,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.8265382837078864,1,0.7418098415083871,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.1650675274502106,0,0.3854544212409256,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0078093865863014,0,0.2377893685764013,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.1952091046520935,0,0.4756531511104344,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.0179265137581879,0,0.3203767540956234,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0047872792555423,0,0.2523836146813015,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.8196411904145063,1,0.7257497344625713,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.8864601418490532,1,0.691185700574672,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0148460966977357,0,0.3581884805092397,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.8294055986375183,1,0.7596350080322817,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.2220195753403848,0,0.2840681784138815,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.0351029706991614,0,0.3100905500614869,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.0230458770537794,0,0.3104195503281549,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.3429479038349205,0,0.2779024910930202,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0070945957102504,0,0.1655944970591078,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0568232781755641,0,0.3253010855691269,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0084703333001652,0,0.2608641469763088,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1796884321617516,0,0.5104168222054862,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.301697514981111,0,0.561482381813764,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0507413838913289,0,0.3030090721896057,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0690540122546347,0,0.3094720480579001,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0188263677139656,0,0.1503598212970298,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.5931817304127551,1,0.7080973727267328,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.1556550795898645,0,0.3599143639019095,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0057483304476395,0,0.1243062761104604,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.07037880948506,0,0.3555771102367948,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.1132018646022011,0,0.5472122041932256,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.3496967328415391,0,0.5206878006896993,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.7907333249798875,1,0.6622021936224168,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.5978881863395858,1,0.6013261689268805,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.3166091027182382,0,0.2759522129582454,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0008474345570024,0,0.1104388477648557,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.5274547805157654,1,0.5536480827602912,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0226922178940097,0,0.3402189900745346,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.2280404317043483,0,0.5778502269486473,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0269292413978654,0,0.2179301228628983,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.4604028756351244,0,0.6070035416835637,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0821504110769932,0,0.2259099588306681,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.6970915850303785,1,0.7440347816523587,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.2793330899980658,0,0.503919334836326,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+1,0.7854678340302638,1,0.7244091691935836,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.292336688741623,0,0.5771999434552023,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0172494519303545,0,0.2146548426398841,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0021083643997118,0,0.1239824396585622,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.5638777148258551,1,0.6727430113837913,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0494019708286625,0,0.3214838319913887,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0103908798387346,0,0.1540741207577891,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0783189535789227,0,0.2031167425345686,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.6084124638530931,1,0.6128325346746067,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.7430125098652915,1,0.7244538671204522,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.5434391433588834,1,0.654054359051678,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0124885137669037,0,0.3620987830313087,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0502717259339409,0,0.4211689106241477,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0263710506406012,0,0.2186761740148852,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.6106323682504721,1,0.6520967029322949,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.7180627108557727,1,0.7462423642343211,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.3146536586140291,0,0.552727395017731,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.455299962238345,0,0.6293747373911615,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.3789409270723139,0,0.5666633643458148,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.6199052932849484,1,0.6735688575471447,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.7269904858094884,1,0.6482446813140554,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.4759490887392996,0,0.6153114649235571,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0402764586592847,0,0.2026544083856575,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.3888103133741285,0,0.4952739626619703,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0013930738865924,0,0.1196245144215656,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0118001286368887,0,0.1387640481895266,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.7113854072686145,1,0.6862696354044033,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0079347207432482,0,0.1938140034815681,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0180135005238669,0,0.4151305802449127,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.331365070909735,0,0.5678603396773757,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.001579226521939,0,0.1033591825701557,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.5103651096495396,1,0.6450479735043925,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0785097240431586,0,0.4235748529543464,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0045433877985576,0,0.1189968183720619,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.1413925300496442,0,0.302774781031548,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.1880792153418131,0,0.5100395570142192,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0058433623763415,0,0.2587267254525017,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.3026531941437364,0,0.5923718987057512,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+1,0.2558996279960944,0,0.4573670938570016,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.5304881819221604,1,0.6101917204118049,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.1130241771502653,0,0.3460719605963499,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.0792409047591259,0,0.3089613999640924,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.1200102548541418,0,0.3477368991350405,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2055448059553707,0,0.4852551201728334,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1965898981944109,0,0.3902175121628095,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0037570261058268,0,0.16022204327248,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.5303509137008685,1,0.720087141419616,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.6285508395942047,1,0.6437822139311051,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.3840545985114058,0,0.6762243018042726,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.1098600605575832,0,0.3485777876592221,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.5186453960758486,1,0.5547188827336919,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.3412675789006505,0,0.5466965525354411,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.1177772605061598,0,0.3873539933118528,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0156881730242208,0,0.2244061495584697,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.2257182416004527,0,0.510689834417302,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0984046483905538,0,0.4441707168379881,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.5146813065759185,1,0.692868044961876,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.5642561063883405,1,0.701614627062409,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.516632216523388,1,0.6098538370465761,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.03154164255461,0,0.219504744639488,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.6543655167277178,1,0.7506536511578271,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.0115751606359716,0,0.1404129901685334,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.7645685594532442,1,0.7616700671085666,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.3886877283812782,0,0.5505247223478467,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.1533073847165,0,0.2916414228609945,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.0986167377440084,0,0.4712730141369552,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+1,0.3189524447760561,0,0.3422480044742038,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.0142791057749994,0,0.3319124235678335,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.519872526681018,1,0.6403243585683798,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0691890476317219,0,0.391128608452555,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.4523251886239656,0,0.5843533819192122,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.3173813695314629,0,0.617672318459078,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0754298834874831,0,0.4361734214060971,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0448517654265031,0,0.3093530148246344,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.5826625049540913,1,0.5956314917812217,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+1,0.1862700062641058,0,0.3610453787035336,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.1603325083004257,0,0.4690831005178594,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.3518870838568557,0,0.5501633504466227,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0812286483542277,0,0.2136487915560672,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.078944865085053,0,0.3675250080616125,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.1115244777744443,0,0.5136793365792274,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0379409342690472,0,0.2144699495061157,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1666143237395483,0,0.2407222203094783,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.2820134909649329,0,0.415451647434759,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.3772281175825711,0,0.5622268424447993,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0413778147631542,0,0.3724663383288525,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.6346795778053237,1,0.7281042876471114,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0047606414425921,0,0.1596951546310695,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.2023929482766472,0,0.4503024773238037,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.3140488510742455,0,0.5173037910485886,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0071501838817543,0,0.2431849313517084,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.4388140215546848,0,0.6196480532424306,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.3577221443674599,0,0.4804972088930692,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+1,0.6681745074862553,1,0.5923656768828787,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.3318881827833666,0,0.6432279355881227,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.2460612476263176,0,0.5135896045388662,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.7046437169021421,1,0.6541448684029865,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0088827009011452,0,0.2547958547514028,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.8098889070136843,1,0.714552095586984,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.3861465102646348,0,0.5566746617056565,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0007961291972061,0,0.1265504898500554,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0012504859250022,0,0.1157076190068607,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.0807558157544629,0,0.411355616408473,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+1,0.7364242933822518,1,0.719622267824103,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.2956168832000324,0,0.5766307215564628,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0035386127070201,0,0.2379199668255762,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0111596564832277,0,0.3104845782532186,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.7410798556380969,1,0.6626384283763488,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0029738033550344,0,0.1377147341201158,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0050214335801192,0,0.218806557636104,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.2268327993046841,0,0.312226458598189,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.025890457012085,0,0.3119037674448279,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.3403649135375635,0,0.5471950977351967,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.1945596847797129,0,0.4884550834406982,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1163843368467473,0,0.266295802693776,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.9227026416166576,1,0.7789714045974159,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.8152908129570773,1,0.7171694696444597,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.4363103356765656,0,0.5832400224375498,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.0700314967001868,0,0.3804739576293846,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.0107850305637501,0,0.1610736561827846,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0002645530186303,0,0.1100835868983109,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.2803367886684945,0,0.4639193067189272,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.7453647952525567,1,0.6937155164773188,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0244737723122857,0,0.3429853366658625,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.5708761912679592,1,0.6732093594530388,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.7452495127004456,1,0.7231829965087246,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.5305506054531371,1,0.706452636427261,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0616957396161105,0,0.4681851840708863,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.6718753964825454,1,0.6665612873219569,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.648197067564524,1,0.7074585392525335,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0892373252316853,0,0.332572188910019,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.7696633269861631,1,0.7384886169704368,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.1313465889915615,0,0.480528014687833,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.0944939718580514,0,0.5018667742396665,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.7152456888115629,1,0.684200385904634,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.1312562866113806,0,0.448730947480313,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.7519997654588436,1,0.6830404091777538,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.5071378853978572,1,0.6698416552755228,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.2437447486764886,0,0.5174118153272219,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.2033558552247593,0,0.5545241125140774,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+1,0.162130876057509,0,0.3916148002864072,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.0235377578605523,0,0.3488790310032407,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.1823739317530448,0,0.4836614508931276,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.5662093456116429,1,0.6950955912089021,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.4774112567813157,0,0.5914964996724241,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.2454896284566376,0,0.5046078086628684,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0851102748934351,0,0.4475941793194466,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.5376102462305158,1,0.6174294059179624,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.2321613478680868,0,0.5479758819040118,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0307186284235161,0,0.3303613426086226,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0236754015086633,0,0.2924618190389869,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.5601623037364962,1,0.5948018789549803,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.7288184989893116,1,0.7528495531308645,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.6864190923471905,1,0.7123244528507106,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.7128951844152976,1,0.6612355588661804,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.4344961398668489,0,0.6732351403266859,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0460120963050444,0,0.158022764392049,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.6507933359013074,1,0.6836507464728478,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.3230206340334175,0,0.5875234846671906,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0166727618459893,0,0.2661539611936724,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1705823457726916,0,0.4544585376120323,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0424699611038207,0,0.2577260654596945,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.4889216225456244,0,0.6791926719295861,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.4081606857443534,0,0.498986627396753,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.3965225073948843,0,0.6454472116146054,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.6129561194921235,1,0.6700008892591596,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.18646831437027,0,0.4431257337021972,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0196173107533876,0,0.2687077998417055,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.3086565407636719,0,0.5367121173034095,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.006853304780169,0,0.1928786128886341,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.019055819812493,0,0.2400689571478094,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.3536126227070265,0,0.5579473080643235,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0027974768379898,0,0.231898916842877,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0154527257913224,0,0.2427335199071237,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1279759088082348,0,0.4606720584575262,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.6101176178373519,1,0.6552439567775857,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.2229523180642289,0,0.318227445458722,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0008644778482262,0,0.1205086304016488,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0485135368335593,0,0.330414047166284,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.017139136870191,0,0.3129750324776945,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0110847551664341,0,0.2414547321085628,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0551998572202825,0,0.2884592119078886,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.8331956051553626,1,0.7646057208708932,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.01907039562222,0,0.2079192177031482,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.6287224053958431,1,0.5919645738187801,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0586669976435579,0,0.3481108934706894,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0025246894379683,0,0.2299332690817979,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0331322436344638,0,0.211342600386993,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0317139540619359,0,0.3053840056572142,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.6309505378376258,1,0.6339915945011948,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.1000010362102654,0,0.2734127033271031,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.048163490479272,0,0.3062940220238546,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.1230084193239844,0,0.5025564048177525,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.128753639934928,0,0.5144026280309877,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.1236146969996855,0,0.2660624103461304,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.0184204790453413,0,0.252517360792061,0,Low Risk,3,"(0.25, 0.3]",Churned,Predicted No Churn
+0,0.1811026787501606,0,0.2318909908066737,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0160903115467687,0,0.2142832490652038,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0882633520188275,0,0.3185842848162562,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.774747519022847,1,0.7650166609754372,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.7125218611145899,1,0.7641063357387451,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.376518074460576,0,0.6437758408891119,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.6830142468407577,1,0.699019603191102,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.5917987471271768,1,0.6724686629300402,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.6576859432967596,1,0.717154775125433,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.005931717751667,0,0.13129704885196,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.2332671910252414,0,0.4758152431646729,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0733700828410579,0,0.4272863447428409,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.2055809644057396,0,0.4517361881926742,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.1929190669350933,0,0.4101825603283286,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.5639763279454004,1,0.5793506902607438,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0347713650359504,0,0.3911487301690006,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.7093701315712241,1,0.7150600773784579,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0338610034676402,0,0.2170833385935097,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.7632481682306996,1,0.7375296099761097,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0009795593084498,0,0.1146578223298704,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.4132216454427947,0,0.6058990884870253,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.4590576416201847,0,0.6053804127840755,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.002525618037146,0,0.1157405669916456,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.7207477068071203,1,0.7121320241485354,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.1332353351634428,0,0.5279121715119984,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.082316825861121,0,0.3866842043349915,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0097642512235984,0,0.1687552275159024,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.175442441671227,0,0.5233572188118213,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0219426813864601,0,0.4484581701482366,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0362383336642534,0,0.3490369831787903,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0197650730736987,0,0.2532927573200293,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0059623213171723,0,0.1526880525131254,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.5995506611727629,1,0.6892296410737647,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0105448603803064,0,0.23610933517897,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.056177992347195,0,0.3561992139604632,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.5492059075808458,1,0.7013509765386041,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.3333308774145527,0,0.5138623038665067,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.5022928188717783,1,0.6415853779496729,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0042293518546188,0,0.1982866018962364,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.802364086619661,1,0.743090153001447,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0410367717288427,0,0.2320726684867412,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0254964673908678,0,0.332042586343723,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0897496756953293,0,0.5042085278454299,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.661207556956258,1,0.7041996653788931,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.2356233419353425,0,0.4413072074102187,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.0222882423976714,0,0.2236305401209436,0,Low Risk,3,"(0.2, 0.25]",Churned,Predicted No Churn
+0,0.0325124718998165,0,0.1991607719564845,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.455835204941097,0,0.6323992231206993,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.3095319502401377,0,0.3720753890156414,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.3045221033185505,0,0.4840103009750514,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.4993453440799559,0,0.710304772769918,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.1890974687686088,0,0.4623638485796766,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1279533467518032,0,0.2166757090499883,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.5307164300009856,1,0.6309964521195801,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.6666157853237503,1,0.6725396607623325,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.3983309555168273,0,0.3441758338947637,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0616398798266537,0,0.2354259582345129,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0335206847943333,0,0.229822422890848,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0379209812822349,0,0.2736844302620177,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.2936046675845619,0,0.258261730926463,0,Low Risk,3,"(0.25, 0.3]",Churned,Predicted No Churn
+0,0.0071958181345204,0,0.103783193704906,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.8833771883503053,1,0.6119862945160515,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0131814033136505,0,0.1448835263056612,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.131189218832755,0,0.4420270709461658,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.2105958255934917,0,0.48788407510914,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.294190297137295,0,0.5304878267457149,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.4375148512587608,0,0.5712950724121592,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.2052867530328494,0,0.3462376233749261,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.0378062087229747,0,0.2550076933739845,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.0721065801514858,0,0.4935747789904965,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.0018668384760498,0,0.1212265049100337,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.0130078179442059,0,0.2388815867701164,0,Low Risk,3,"(0.2, 0.25]",Churned,Predicted No Churn
+0,0.0069135720605603,0,0.2146669307776511,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0108845382783584,0,0.1934561281045396,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0092049583556087,0,0.2850569030796229,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.8091740055031926,1,0.7602171631455222,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.4050155133938518,0,0.7235342366382201,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0013966895635053,0,0.20627732405171,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0479399715929537,0,0.4044524493125789,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.2639410918254055,0,0.555803183261879,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.5226190492108411,1,0.7143925523498819,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.049788082959505,0,0.433726395988685,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0435035956974865,0,0.3169511979165599,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.7641695289595335,1,0.7430742263054759,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0021615793004075,0,0.1342550426463024,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1369137884774669,0,0.225019281693912,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1488127730877328,0,0.4442375196416215,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0280383229509595,0,0.2002315113005799,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0362384886147825,0,0.2617572758241709,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.6934282622960574,1,0.6716902243406806,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0022034039970938,0,0.1279613745647178,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.5142554006523211,1,0.5474036478056172,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.9297486175705572,1,0.7481434928810057,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.6998259937895853,1,0.7594897690445453,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.0824695006611526,0,0.4244716186838113,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.1665669404904333,0,0.4413678031216793,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.6571685613958597,1,0.6885123846721969,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.012562591057988,0,0.1565228594271944,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.3282564675117282,0,0.2875376263429522,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.000329700845986,0,0.1107834865869069,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.4176334193917476,0,0.6283921629678777,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0009023070720868,0,0.1108782405847337,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.0243345852732063,0,0.2094368329773558,0,Low Risk,3,"(0.2, 0.25]",Churned,Predicted No Churn
+0,0.3073949749125503,0,0.526572162210377,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.6089050766195522,1,0.689362129600116,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0135571825028091,0,0.2512021901219315,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0358519350748638,0,0.1844289369640466,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0668039560313776,0,0.228620939956475,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0697297167693731,0,0.4431357479471445,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.1600711113905563,0,0.4268236466254218,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.2234398312125544,0,0.6169384137002759,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.2165229964803269,0,0.4115009236971575,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.2334006308081675,0,0.3309615275511164,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.6918690346136701,1,0.759300649889894,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.2166817091295813,0,0.2819331845037401,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.73222855211885,1,0.730337200962023,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.2067628861657589,0,0.3998243932893637,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.4159650597573501,0,0.5943784199667048,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0087475182460435,0,0.1546082233431673,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0548311974961437,0,0.3801083332114645,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0254577109301711,0,0.3410508165132252,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0672227335183863,0,0.2775230348296623,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.55279781448949,1,0.5985783271462314,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.1670896758160941,0,0.5743245616794589,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.1124463457764731,0,0.3237706927953083,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0029872690637235,0,0.1331957084985499,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.01708466563044,0,0.3598994229684474,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0027020894707711,0,0.2523977080948068,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.3091941408386637,0,0.6164335810911404,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0198341329067246,0,0.2767885340404171,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0188055625919291,0,0.316241311501759,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.7598732436997275,1,0.7576159825237616,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.0021267739166221,0,0.1723053736659423,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.4372548477857289,0,0.6517073273243434,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.4655736092960487,0,0.5883356897637687,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0264681961596296,0,0.3500048017409615,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0110772509998821,0,0.1761362409258059,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0367053684636737,0,0.1888390848467357,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.024627297482157,0,0.3280519672717429,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0658104016816169,0,0.3810684147158689,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.7433315919680606,1,0.7447907040567588,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.4728309236178346,0,0.6107168406861393,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.1474410583624184,0,0.4132821909014402,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.1171340978206543,0,0.4461558187007602,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0103455803311093,0,0.1808608263348607,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.7622130031039863,1,0.7576343808966607,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+1,0.5474401217674656,1,0.660055056587438,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.3252044928090628,0,0.498840511853271,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1150453945690114,0,0.439914850142746,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.7413784624122354,1,0.7523487638877248,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.2157331447482459,0,0.289064929397975,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0046704471658829,0,0.1430290553528156,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0026891181438766,0,0.104795031599178,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.1705019300263932,0,0.4547481606418483,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+1,0.5117653438415153,1,0.6638081164112166,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.1149389264872473,0,0.2543437289685322,0,Low Risk,3,"(0.25, 0.3]",Churned,Predicted No Churn
+0,0.1166793514982581,0,0.3592719927698553,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.044210411527869,0,0.3805233834845744,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.6493761053494663,1,0.6686890186527177,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0266365390437891,0,0.2910036460372158,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1603746418108247,0,0.565233934517356,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0087709000838165,0,0.212235360432347,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.0997410853834916,0,0.3470868961218207,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.0237483691672671,0,0.2531004132112526,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0909389342189109,0,0.4207533450837954,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0043717154497783,0,0.2210184169783683,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1604135400520591,0,0.4036161517857279,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.1485370147319042,0,0.2866288626448607,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1510153148803514,0,0.5202764573318662,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.3206499042822554,0,0.5786727860412645,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0523997992170714,0,0.1958180819041068,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.7393713827567733,1,0.7542381906230117,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.0119230572063475,0,0.2688276526518159,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1143268347720285,0,0.376703940282054,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0346675089967021,0,0.1683460926209455,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.1531687900800884,0,0.4130545342707395,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0253033085682946,0,0.2820480436931101,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0264401129234385,0,0.2081266966109882,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0249371798936544,0,0.3818930491069825,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.7934875446657005,1,0.637384816420325,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0076724895785294,0,0.1465679675759245,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0489340632271615,0,0.3848920103595968,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.7276014039466461,1,0.6773554936720665,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.002828420762064,0,0.118586477632445,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.2489402816820409,0,0.2582632122624195,0,Low Risk,3,"(0.25, 0.3]",Churned,Predicted No Churn
+0,0.0021377233653696,0,0.1198545839172814,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.084025019673835,0,0.5201845329357352,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.8014981478981094,1,0.7274464226568731,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.5899744297172651,1,0.6669842167972624,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.69558627813445,1,0.7363106307012667,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.3548615823408106,0,0.5912753544720626,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.2352158323745717,0,0.2467547684252985,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.4764305800753586,0,0.3215849173489705,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0114498173398732,0,0.2147813030697823,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0494234354697148,0,0.2741315940876675,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.2796832129626045,0,0.5140511984273373,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0285191129116327,0,0.3479114843729463,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2624103075620244,0,0.3863714738317365,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.2642183163054094,0,0.2602410074519829,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1161123322191251,0,0.4108819230891468,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.010502818747932,0,0.2958678153061413,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0097736252003432,0,0.1185931662417327,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0462235182752779,0,0.3926142312106948,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.7196924932103718,1,0.7530788791749283,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.084963525700304,0,0.4386332516548231,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.1024203155515231,0,0.3876171166493375,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.5075193069566873,1,0.6710932703356476,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.013140189536679,0,0.2379577487895787,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0151809327450176,0,0.1389442035388181,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0308083097497893,0,0.2037147489889001,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0015905884500708,0,0.1600004681353806,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0143569980418905,0,0.1439895644481632,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.013045460738621,0,0.254755781840069,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.149822704648536,0,0.5149035343859599,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.7485344384000849,1,0.6984310052275516,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.036625918491491,0,0.2104614856034111,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.2107208214008655,0,0.5258051933228289,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.398063238964601,0,0.6997738633785866,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.048489689650105,0,0.3745694735848588,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.2031064657258977,0,0.2812657193047515,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.3168551033559285,0,0.5234633723048829,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+1,0.8318548268997104,1,0.680751291279793,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.4252535971028489,0,0.5083827142242159,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.1496064010468603,0,0.4927503082812896,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1358489169526373,0,0.4414805893167005,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.2133187486203422,0,0.57120487604335,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0195275029092447,0,0.1520402431492182,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0060248751883037,0,0.1286031340281543,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0234575625253509,0,0.1954049214168406,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.518298456865085,1,0.6149607480357862,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.3678853079209975,0,0.6104570685994066,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.7362454447625412,1,0.6558337285649781,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0198963274218294,0,0.1945922688571633,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0135206718060872,0,0.3143345079640724,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.591346533510962,1,0.6993448644000221,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.6885990917162734,1,0.7597850513855936,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.0480713673346676,0,0.4002001199439318,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0446815015064895,0,0.328835318373216,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0093881324909564,0,0.1824505908787149,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.3335089194608398,0,0.5801388984997107,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0341795292027583,0,0.2808259152306004,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0067640058260745,0,0.1735276295358924,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.183713794774344,0,0.2823257311328558,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.6092290853602167,1,0.5581149231895438,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0656397676901387,0,0.3086189485605677,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.8089493334976818,1,0.7281943935092156,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.1181568430997059,0,0.2071307367122278,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0535312296893907,0,0.2524063940131957,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.5387162587987456,1,0.6220659314780148,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.843063836394822,1,0.7130121047227003,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0526642369560013,0,0.2339112544384987,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.101017213802085,0,0.4347235804992742,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.3107748044405439,0,0.4987906200175627,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0394320141438361,0,0.3834247455095253,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.1023778246291813,0,0.4346984725791505,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.6425885512512268,1,0.6811371730535329,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.013922977643736,0,0.3113383627541585,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2635527092180011,0,0.5160836245547865,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0233938529457284,0,0.2104548205134378,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0127667780639996,0,0.1845575669650032,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.251539122932635,0,0.4874112557428238,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0096017838518107,0,0.2889202397335447,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.3937803270896335,0,0.6787546727404137,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0554137911115141,0,0.2148519973321636,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0207050033141282,0,0.2313554881289325,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.6545192915452642,1,0.7035322371523918,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.851280879254604,1,0.7482357523053832,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0222608792726785,0,0.2740226760739564,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.5059398262719876,1,0.5291097939112349,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0480714054263613,0,0.2904358934846612,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0046795438836137,0,0.120972906032071,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.693327739363869,1,0.6203134779732921,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.128586875875766,0,0.3356989129695,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.7116876342974209,1,0.7450420497505083,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.1675274889863095,0,0.3136276980901015,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0293037131857289,0,0.2624017606552209,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.2726717738051111,0,0.3285188006414781,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.463121826813164,0,0.6291791327196091,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.7594397800140216,1,0.7347432820586224,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0020211046878883,0,0.1654070099546162,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0011207076552272,0,0.1159515663116793,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.4300194170903561,0,0.6389563719702016,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.1917836848519211,0,0.44802170877151,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.5076720644412713,1,0.6581078524754321,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0032485658915414,0,0.2300808685431804,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0094482059912275,0,0.1837887215339997,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0038078108102378,0,0.1234598099647407,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1975243960751675,0,0.2995037041267506,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0717210150967459,0,0.3134053515138701,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.5420509158522916,1,0.6202665590118894,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0726015420020758,0,0.2807537553959021,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.4047356402402218,0,0.5351574014708733,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0054331769232629,0,0.1514960351854414,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0622302708001245,0,0.3344424855819313,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.6949349030732288,1,0.7114033563883051,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0031824661951829,0,0.1333236222534983,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0099903078216134,0,0.3057093134518189,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.8643075665533553,1,0.7859842721003616,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.0743080313396934,0,0.3772858972057445,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0397655545598575,0,0.2949339288773712,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.8279780312424241,1,0.751709704547432,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.8509107412074368,1,0.7595055269003563,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.003745484786729,0,0.1292190485122964,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0319381927534288,0,0.1951392572925733,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.2691738583915171,0,0.5181121404482311,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.0617597228167001,0,0.3594333002943651,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.1034058358392754,0,0.3385709766081892,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0415718708748817,0,0.3631579505291357,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.5437357705701484,1,0.6557490049833509,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.8560652891646201,1,0.7651393904147534,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.1096543674445468,0,0.3631368481348781,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0015588699677118,0,0.2237955201795109,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.5485539014490307,1,0.680453874125689,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0618101031480319,0,0.3532436700384816,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.266771384355048,0,0.5803528318984741,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.1779354588372752,0,0.2027315042833126,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0006464065249229,0,0.108959206037199,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.4361849245202474,0,0.6522175583244523,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.7124516566007967,1,0.7480494855181524,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.6585391192149118,1,0.7522151006781265,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.3523372287539152,0,0.5415385255377517,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0080106285018476,0,0.1710379575912925,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.7120898389698833,1,0.7514057671486691,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.1576728746717954,0,0.2647336340886385,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.0272516498638598,0,0.3964074426875869,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.0052961351602235,0,0.1321142978399612,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.2599500619813689,0,0.5179022213505091,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0837748324337979,0,0.3372212021694284,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0381302858398856,0,0.3406587938311075,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0785547405964341,0,0.3138781823149001,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.5189372513758441,1,0.6248517301268336,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.1796186584589624,0,0.3226368201269716,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+1,0.4166683843647251,0,0.6125008615505184,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0152134761648031,0,0.3435729494518436,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.4090036734432155,0,0.6462917444391367,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.6281554448022332,1,0.5762443077538841,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0360240745507368,0,0.3160969417361919,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.6185691688931828,1,0.6115087965776083,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.2901296410549225,0,0.5102593245735807,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.4015835865473974,0,0.5524633401178144,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0026638659462865,0,0.1475741375267668,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1855129168284827,0,0.3749512822943012,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0730803208931739,0,0.223115903619706,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0114092644063687,0,0.282914915866629,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.1721405018757676,0,0.5108029582578407,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.2373704671484962,0,0.4358928234396403,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0913528534372841,0,0.2792340727849317,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0021496005521791,0,0.1161262478029038,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.613556002032715,1,0.6990743170128958,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.2460373278336884,0,0.6165559791305422,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.6550219184007797,1,0.6920809267041704,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.7347117116297319,1,0.588863872078418,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+1,0.4272331304350054,0,0.7086598229695266,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0251376152487781,0,0.1859754503688227,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.2469965665260857,0,0.3489529991124474,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.6107601460726073,1,0.641567268659213,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0413640059989915,0,0.2071036386315708,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.7969068146949476,1,0.7408760923482909,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0300069745747503,0,0.1708035842631974,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.1916863747095323,0,0.4339485246663608,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.7165423432438728,1,0.7452447083772298,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.1205144393378133,0,0.4134860279138587,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.8302473459735578,1,0.7327375762163351,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0426935855265166,0,0.2289880089426869,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0960487794299724,0,0.3252815241479256,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.4410839601615408,0,0.6541479450510604,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0459998158370675,0,0.3897590685281894,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.038655492186453,0,0.2910067355829411,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0628974180786248,0,0.4050060922728476,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0504606457170047,0,0.2679369964300412,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0538446103830092,0,0.3253190149987257,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2940660491008571,0,0.4588945619040956,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.3483707062002977,0,0.3484289721162997,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.003910294837046,0,0.1038673508348651,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.1181120028189651,0,0.4870454594102038,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.0812873659158362,0,0.3285068089648777,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0011730281494197,0,0.1150929997184708,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.007790719385185,0,0.1668878199637729,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0420809573041673,0,0.3254857088396622,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.452226587359464,0,0.6340561689373556,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.2817692446578475,0,0.5408696936063808,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0271647642375049,0,0.2257229138441507,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1278837945511289,0,0.4697321042716282,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.2904211924762447,0,0.2917605203668059,0,Low Risk,3,"(0.25, 0.3]",Churned,Predicted No Churn
+0,0.0267169769516683,0,0.3937337143282976,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.6248137417420693,1,0.5910238812121259,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+1,0.0587515185029473,0,0.3864955848876167,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.2649067759003568,0,0.4821413709491125,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.4220546658193272,0,0.5983299013418322,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0679225974258803,0,0.338341341956471,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.3487835947347597,0,0.4753443800220623,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.3554541500070164,0,0.4897107172634732,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1335365233090083,0,0.4434989499428686,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.1653249271380663,0,0.4702532020198885,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0185361028795272,0,0.4217351098346561,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0756689173725946,0,0.2021933618222825,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0695403395875308,0,0.4418292513493351,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.4098202670776696,0,0.6801768031859998,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.8328406867688654,1,0.7505427493569645,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.3518621253317953,0,0.5173248434587325,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.114676426477442,0,0.2791896408994151,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.2288404708007655,0,0.3617402546105097,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.6896373001210244,1,0.7224728034331896,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.2689434503670206,0,0.5399625835555553,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.1822709148793789,0,0.4814484556421445,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0009963830340642,0,0.1144340965350826,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.781090183988043,1,0.7672457913395738,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.1834668083896315,0,0.4853155712438001,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0166807814783108,0,0.3091924743510608,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2586187573475014,0,0.3469196164345824,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0848213060447566,0,0.2300315689974224,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.5785424998002998,1,0.5660584681239089,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.1105421103509797,0,0.2780919468205448,0,Low Risk,3,"(0.25, 0.3]",Churned,Predicted No Churn
+0,0.5530548588883338,1,0.7220366925647158,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0110201616957117,0,0.2718771326175996,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.09267050458041,0,0.2040463605385366,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.183433980917713,0,0.4524897548398464,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.0034039514208888,0,0.1293769145649531,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0675179073307223,0,0.2151264644166188,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.40031290394443,0,0.7152205184731892,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.1952558339782745,0,0.3014336914188699,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.0393931406456625,0,0.3518543081391882,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0034486024404526,0,0.1580623580341569,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.2733648043771391,0,0.575761145623508,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.2512150365547819,0,0.4729300193496392,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.3997640650089585,0,0.5532959540073805,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.5079140705369747,1,0.6457069428104529,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.1751777762645424,0,0.5151363441997219,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0975810254315467,0,0.3344824272223418,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0749208406200781,0,0.3881334044331313,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.1014624517999034,0,0.3567449488961205,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.7414035711998127,1,0.6395947630515196,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0482094385318843,0,0.262879043099401,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.5255497593285474,1,0.7201035114116529,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.8046011926917491,1,0.7565833454068822,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.7742531013580713,1,0.6553072544244568,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.693228609755666,1,0.6553256830818465,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.3030476834822435,0,0.3671033244315962,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.4251094845557581,0,0.6078307478023638,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0328762497839977,0,0.2219940515968312,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0373032583611035,0,0.2780980531159884,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0010579585462214,0,0.1180828576464598,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.2128495429012918,0,0.4993065138489983,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.1150307302504734,0,0.4460463382608373,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.0305520328403741,0,0.2325857289417002,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.5298982907687945,1,0.6621710266821775,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0628107269184482,0,0.2159536455135306,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0203228006517014,0,0.1572363335865384,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.4411844799733716,0,0.5952254820787829,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0087050320031337,0,0.3487819422203565,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0280192317218787,0,0.1621802271187201,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.254036154798155,0,0.2686215708229487,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.694187893544297,1,0.7351817310875326,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0125540026114235,0,0.230810647490174,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.8694822219501992,1,0.7590468105381997,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.7438362618017019,1,0.7529031646235305,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.0015814902789347,0,0.1221679340267709,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.022774731594609,0,0.3071026929505096,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.4213069925870505,0,0.5956170494236411,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.6620853778823927,1,0.7008191417185123,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.010082551860187,0,0.2455938746863366,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0027669084125401,0,0.1112543934256043,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0020127968046748,0,0.1204279675055882,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.5974182037641503,1,0.6915395966276227,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0236253289793032,0,0.2598506228742812,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.7883244671714846,1,0.7352303723821291,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0968543407813681,0,0.3340071215294944,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.4328768963128364,0,0.5147647001777661,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0025894634825015,0,0.1900055574171437,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.6522091584024201,1,0.565694218647829,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0199063546405017,0,0.1570740569141653,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.6687607245478775,1,0.6308475491069134,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.2993304881911761,0,0.6492917722457267,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0174458940086445,0,0.1586828219400546,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0039993683239507,0,0.1637120676192529,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0889344907304019,0,0.3294863550242252,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.1760572043015414,0,0.5246852561169849,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.5255046107592983,1,0.6872363949100846,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0026691693043712,0,0.153313492469108,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0223540444108363,0,0.1700768030067,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.2196076113176071,0,0.3108582478290928,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0060878602605051,0,0.1057634751584233,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.558284332998804,1,0.5645415253647603,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0247448740182428,0,0.3428052643154825,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0304369652127076,0,0.2288601833436152,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.6891723869757348,1,0.722911818846342,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0678061545085518,0,0.3692225991596398,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0096171843097489,0,0.2022233183386839,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.3318051255020965,0,0.5149422573236496,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+1,0.363697140602109,0,0.6272664925255187,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.1201750745962533,0,0.2820402422052911,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1496133418816018,0,0.4515626219413503,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1042110873345424,0,0.445886022337209,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.4247918511336181,0,0.6933831406846077,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.8196298876151099,1,0.7241802308020518,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.6198047076537533,1,0.654883907368996,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.5948030677227666,1,0.6252761679732534,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0687844778055352,0,0.2363091893149953,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.022981755720066,0,0.3475542549894969,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.3470702836493561,0,0.4110724865185916,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.080322229504113,0,0.4483637722642588,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.0376746573226714,0,0.3380586618950487,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.0974763936721805,0,0.2782720183150194,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0674662631823241,0,0.3346432713210876,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.5978780702015413,1,0.608879762668031,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.495979738916953,0,0.6523635763585827,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.496633447375448,0,0.5823305666009392,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.1102402583290183,0,0.454792593787716,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1395309386030513,0,0.3895991049902122,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.006792707196081,0,0.2851209469799706,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.3377198552318997,0,0.5002276634512954,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0085949812038005,0,0.1818318049806302,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0151398324891049,0,0.2294251917315437,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.4545858066793277,0,0.7355027452819236,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0341744798267404,0,0.3673244578345829,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.5643537218433898,1,0.6994269120400145,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.664335566133308,1,0.6550723744017252,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.6806840938194693,1,0.7761162938288279,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.0166604184319855,0,0.1701640138825925,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.2541388436106541,0,0.6469211753464904,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.3328225260410011,0,0.4633724386979566,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.7076269068903861,1,0.7416748351256236,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.1988134178949226,0,0.4586012875369144,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1705564867725907,0,0.3975994700244943,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.3871512870755417,0,0.5898840629195811,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.3266184488084466,0,0.5231412676868059,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+1,0.1274954428219663,0,0.4068913491982965,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.0009687705020866,0,0.1086828972130258,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1035542965678846,0,0.3954281113124679,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.5505451527069627,1,0.592741108535727,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0660571788005521,0,0.339964119557591,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.6527852773416433,1,0.6594058487249771,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.054581725394712,0,0.2062741723266753,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1018460021931381,0,0.3737623679789401,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.022595642549687,0,0.2622910179691795,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1529374846231965,0,0.5043274053259256,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.6418034075553589,1,0.6771854524529346,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.1412356592584021,0,0.4683338388222804,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0323874442457296,0,0.3406134373048198,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.1486641098228424,0,0.4592369633688089,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.8191657729163776,1,0.7374679771948333,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.1292260196927845,0,0.2825472233649214,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0385670789978463,0,0.3067089628034485,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2479882798606781,0,0.472694889109281,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.02312637175138,0,0.3736884625415964,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0359902475483438,0,0.3482870517238509,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2039798393499761,0,0.4321305271414651,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0739304790240757,0,0.2344062099699081,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1330271104416021,0,0.4176633164241675,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.4527134793125265,0,0.6788941809847165,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.275315869865103,0,0.4487717407679231,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0641601712810843,0,0.4240779865402379,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0340744460712732,0,0.1949806031635511,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.1699750246805657,0,0.2792839379062703,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.7697882234738218,1,0.7591153244090074,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.0438490730472201,0,0.3666245138833027,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.1270233367913893,0,0.442731480096441,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0233557916683621,0,0.234524117597982,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0430564664859435,0,0.3802536287150609,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.5146551862554022,1,0.6211142794697329,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0156543359569497,0,0.148413526855717,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0105235551822845,0,0.3297827328965529,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.4712174435937808,0,0.5208100102792116,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.202805101656962,0,0.506913773013835,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.3870264868339544,0,0.5800285646597946,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.7063431471791607,1,0.7427580117333065,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.4942777512470654,0,0.6695101182503975,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.2651830726585351,0,0.4495638638587452,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0222176653526101,0,0.3875275106090251,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.2997337919028701,0,0.6860787940294588,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0015208629340191,0,0.1177359474791423,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.6869715648009309,1,0.719334090113014,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.6457950309411102,1,0.6503730004869511,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0075573927169273,0,0.2658446994142363,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.8378091505034333,1,0.7535636754341749,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.6883560648686503,1,0.7535628106446234,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.0107004795547245,0,0.2221226547981572,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0832018566884509,0,0.2863733787454082,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.1587244527900657,0,0.5061312749381228,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0145020038483465,0,0.2901864468457227,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.4686196671269647,0,0.6705720078973831,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.7677181730466057,1,0.7250139206790354,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.6713423561112264,1,0.7470682080619839,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.2757173187617043,0,0.4445715053512548,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+1,0.2122864741701124,0,0.6528832590423294,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.5785049997014329,1,0.7163224691468943,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.0146041292445894,0,0.3424985017114625,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+1,0.6746325872702092,1,0.7510048364716533,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.759276983300059,1,0.6635119934082553,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.3750620850174799,0,0.512607173666427,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0050715600654212,0,0.2298211297570063,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.2067133794769732,0,0.5952392044803392,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.105685554624137,0,0.4823917907359753,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.6787856970442719,1,0.7153971056925333,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.7558951128317969,1,0.761905489654437,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.2205355707751805,0,0.4970647752209319,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.8064992817751679,1,0.7351494507039702,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.6404548223320187,1,0.7366235631008111,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.4214487542850911,0,0.4607362813339257,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.0144433127805887,0,0.2622907552217078,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0692401899453467,0,0.3650215915518993,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0430531658149946,0,0.3207193321489888,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0062528792436342,0,0.1851372663819077,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.7904526293432033,1,0.717052160122845,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.0328472783888094,0,0.3056153340434215,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.4011466755396131,0,0.4726522444545767,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0248029105480674,0,0.2405710246476211,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.7640346698772738,1,0.7461697000187526,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.499300492358396,0,0.5399991943372396,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+1,0.7037601367250153,1,0.6844736470982156,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0591658718585114,0,0.312642083615179,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2244090594037359,0,0.4172786565909709,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0054263261197751,0,0.2298166259766264,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.7405961757718131,1,0.7540407172039749,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.1176776901900601,0,0.4457553593128314,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0101952751547113,0,0.337275411530186,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0892356822956732,0,0.3554183618792046,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.9418805112104072,1,0.7535590926101586,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.7300910534359225,1,0.72972739599849,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.6884675398784335,1,0.6918178079222689,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.4063073698250297,0,0.646545723197803,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.706898345333338,1,0.6925891415048808,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.7380625061685222,1,0.7616460265699787,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.1175244749231656,0,0.3218196217827222,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.0465434357935998,0,0.3506627458882967,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.232837042519426,0,0.4321560428549622,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.0765080805856608,0,0.1834642949855965,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.837865589214269,1,0.7518611970741153,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.0953161767429929,0,0.4953183110739961,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.2906748270616,0,0.355050210699483,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.0406193491784639,0,0.1955972120256046,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.2121522874603707,0,0.2643808313233338,0,Low Risk,3,"(0.25, 0.3]",Churned,Predicted No Churn
+0,0.4033016062615387,0,0.630403863910526,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.1273052236405131,0,0.3862802293621526,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0702206895222509,0,0.2293067026480645,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.4324693433745817,0,0.5751482775352973,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0009516957076825,0,0.1190463480803845,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.741516667721759,1,0.6733416262113029,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.4799449407473659,0,0.7101412873617157,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.624091284412635,1,0.7136656320560446,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.6332057759822317,1,0.6926691503698434,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.5440645202279295,1,0.7110199634454537,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.26506764195234,0,0.3467436959057156,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.379275977791242,0,0.540567299739095,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.4643437982592883,0,0.5298186967895271,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+1,0.1372033319137935,0,0.3462376233749261,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+1,0.5537605992207958,1,0.6468858883655375,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.6155388298650831,1,0.7669744189152259,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.1380596390702163,0,0.4579918124992384,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0092530508033314,0,0.1247451702941301,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.4233411187075344,0,0.5813495979100101,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.2625860946064011,0,0.3641237743640387,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.040365081692181,0,0.3215320179821394,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0744783585218613,0,0.2326076965385276,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0117358786411686,0,0.2705178295186526,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0804226689858011,0,0.2105963211830731,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0332992308675873,0,0.2837516431646209,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1378760942738893,0,0.3008437994325966,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0449752429139306,0,0.3552708381536355,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.2288248996322085,0,0.3942512663022454,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.2051954095534993,0,0.5369727728233142,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0090300598495951,0,0.2948605723909931,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.4463985556584295,0,0.7486218915600893,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.6802815975916524,1,0.6167163131307373,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.4507234149736234,0,0.6532776008870864,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.3544175794686963,0,0.4673837709995497,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.057167597578581,0,0.3794305636299878,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.3188057586509139,0,0.5947734587587973,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0708530288596574,0,0.3507856993758321,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0773691510376289,0,0.4462305902657216,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.4093545822872328,0,0.6206426106158741,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0014447516393681,0,0.1652650433277708,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.1051085087084442,0,0.4940672529670121,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0138589200169142,0,0.1317211263195505,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.184354150757862,0,0.3416903397517032,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.0289044224932332,0,0.3595862622567097,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0360703339026962,0,0.3461374162775681,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2020073247904211,0,0.5263248303777135,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.813694352549779,1,0.757034940865072,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.0049045721234264,0,0.1413927323876991,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0091713291430098,0,0.2750920772298409,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.016064341620984,0,0.2605449909031455,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.3880813911879642,0,0.6452427081593143,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0208761229059227,0,0.1859658769827458,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.015392207147848,0,0.2648511734070404,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0055495367762568,0,0.205698287560939,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.5094872978910345,1,0.5971938969390548,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0037098696935832,0,0.2711777498447907,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0484581344419761,0,0.1631650612863592,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.6197763239757936,1,0.6356826808460538,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0008364641945856,0,0.1240752746763061,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.7496681949997341,1,0.7586860095424582,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.7879097322106254,1,0.7350697626076567,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0019301932071445,0,0.1801680002036154,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.2262700495468557,0,0.5099280077215244,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.5167456197077791,1,0.5709997687411777,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0354709092904233,0,0.2465447166426824,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.5006813658192647,1,0.6061931114980651,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.7073406062016171,1,0.6534730753934221,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0152081436563301,0,0.2342353971287759,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.4958303482894262,0,0.6114826206375059,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.7243918691996183,1,0.6770606077942913,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.7636882544872049,1,0.7246626279872541,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.5924686274729947,1,0.6986762796856815,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0607465046361965,0,0.3940870122406,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.2425395945140724,0,0.4846182684308684,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.0281521096632521,0,0.268939244066134,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0194452474268906,0,0.3334805225694504,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0160447256858581,0,0.2673431379837777,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.2683937990121766,0,0.4750549216755082,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+1,0.3985995618657181,0,0.5643792147432269,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0104663065569485,0,0.2732266694233101,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.007983932232506,0,0.2871054905318367,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.2271890042283169,0,0.6011346019127002,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0017259667651437,0,0.1125006372450181,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.159811751344693,0,0.3631203671238594,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.7004053388349468,1,0.7672457913395738,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.7365218296813775,1,0.7255862950496191,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0516300427202082,0,0.2271326231185386,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0026305678567958,0,0.123706952952452,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.6711230644608701,1,0.7555441080512583,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.0191723560832228,0,0.2191451758670985,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.632744545783588,1,0.617112997188803,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0020382167076064,0,0.1354016740274712,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.7069383463154796,1,0.7347377830484944,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0869193028332254,0,0.2172419952279649,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1091970167412837,0,0.417470337196121,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.4829129257574163,0,0.6699379226989827,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.7976044749293321,1,0.6152839946712764,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0360471592555537,0,0.3899777156582488,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0392568365024674,0,0.3096598122811398,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.1145655646093837,0,0.3673444714720259,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0034645939623378,0,0.257361992089574,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0051256155074777,0,0.246164709453848,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0090252550426865,0,0.1973044379910404,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0771842760000895,0,0.4271400227006106,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0231610017809389,0,0.3091157455105949,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.059565190551877,0,0.4015416124677785,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.0828925485100935,0,0.333988249879491,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.105348175152602,0,0.4758771071831796,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.0470950501350485,0,0.1787631186572922,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0216419696790564,0,0.1927843710317097,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0020652188341023,0,0.1214560218996752,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0304632458618533,0,0.2023101192872398,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.418047313821821,0,0.5208881317237032,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0268202117283882,0,0.3657966554659652,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.673125863635473,1,0.6454369679344982,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0060294487776457,0,0.264000234167582,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0033680244175915,0,0.2123133970694132,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0960167383364994,0,0.380310875303245,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.1124887380781337,0,0.5044292443237526,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.7742915651357319,1,0.7321764083106679,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0215533701696775,0,0.1892603268955289,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0008336260233508,0,0.1158941613414246,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.4791087711127168,0,0.6540105727147398,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.1504517237754956,0,0.4098075445464045,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.2877452479546031,0,0.5761163783336432,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.6818010887716269,1,0.6417909882595719,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0101922047165478,0,0.1533733351925248,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.3631518169053268,0,0.5368325113940292,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0035285338568692,0,0.1001441640688922,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.7132467638830091,1,0.7551094686922756,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+1,0.7232535017632798,1,0.74811231115087,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.7807837511426778,1,0.770708778569825,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.2482160855471711,0,0.3309141281418939,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.60406891278504,1,0.6219446416185666,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0382855180424746,0,0.2154301003578044,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.6315393924945741,1,0.6523533999294244,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.3001875645529721,0,0.5502819183286612,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.8000918798731227,1,0.7113034607109424,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.2668158571934214,0,0.562930414729717,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.8360085181801874,1,0.6526777443694154,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.2271526253891775,0,0.3467436959057156,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2308649053975019,0,0.342705463163672,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.2801343915840427,0,0.5468947353791692,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0559304875403547,0,0.3992568899311813,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0126557813091625,0,0.299019416812705,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.1740638056374444,0,0.3580764161836084,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.0191306266781676,0,0.1376008438062513,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.5761601030390747,1,0.6665635550374048,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.2871243020724753,0,0.4413946898663232,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.1844415571969777,0,0.4948662042713861,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0047788938835435,0,0.1207320649015104,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0037549622732773,0,0.2873050202941467,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.6045969399898675,1,0.7397382886558224,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.3241345181960853,0,0.4995486435200286,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.2624019554340647,0,0.6610361969474059,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.1294587843023044,0,0.4532395750677945,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0395210745554481,0,0.4097385499331044,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0188360780614354,0,0.2861279762614918,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.0947392635490812,0,0.4336493700146464,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.2019045472935747,0,0.3958186778508423,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0304306134334864,0,0.2314617952088864,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1329489681845118,0,0.5067025103338466,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.6474343625097706,1,0.6999309730036103,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0064814859024406,0,0.236350296155514,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.0655976269995004,0,0.4942418514732152,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.0042673327675602,0,0.1690624070205203,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0268377301621952,0,0.1867124233944587,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.6013656916515848,1,0.6177254726011876,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0075711404309597,0,0.1438853133070039,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.5450069024677274,1,0.6307080661617391,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0589922784418674,0,0.4426445735361868,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.3116898344169744,0,0.5485312250576011,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0880410674835803,0,0.2089782207834025,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.001625341554474,0,0.1524114044200829,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.176096797267222,0,0.3467436959057156,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.1296258539527124,0,0.2427128916125215,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.0973491644299246,0,0.5000108343277858,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.1590527297045101,0,0.4426796575429492,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0379008941597235,0,0.4018689932120889,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.1103639827684707,0,0.3700596524146398,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.7038197788077196,1,0.6985183648257077,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.1526950387746301,0,0.4595254126898976,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.7686544180178428,1,0.757782195810012,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.6022021385379469,1,0.6687296509849356,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.7263307056801871,1,0.6308576391355456,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0445294483211124,0,0.3487087506856952,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.4138875380291096,0,0.5936525759641589,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+1,0.1563319733608288,0,0.2911305896186567,0,Low Risk,3,"(0.25, 0.3]",Churned,Predicted No Churn
+1,0.3022612404055699,0,0.5617733122237966,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.1086497723302757,0,0.3538288768896072,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.2089754297824592,0,0.4300731733955787,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.1606176052678328,0,0.4571043944285209,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.0129640460249418,0,0.2093849116506682,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0032922087820233,0,0.1516241648456622,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0353688945676978,0,0.2266733331269886,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.3157547412034733,0,0.3934966461472498,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.6765959928803137,1,0.7320800458342122,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0142221507708852,0,0.1427119269992131,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0012013231610008,0,0.1153594347861965,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.5580286030287633,1,0.6308388082227243,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0267956552845592,0,0.3358323496065322,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.544160657714345,1,0.6433316730473329,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.2537789324664367,0,0.4501464653013209,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1537409133055371,0,0.3131125113905112,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0013794486316507,0,0.1298385511234226,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0362786171363327,0,0.2482418622912811,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.2604726629626075,0,0.4994865939229455,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.0067034259697578,0,0.1696542623540429,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0626487193377471,0,0.321696397345339,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.1700030916476284,0,0.4369095698717099,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0277381736838502,0,0.32622231989369,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.5833832836521579,1,0.683304299858537,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.1903873555766246,0,0.3661623194457381,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.4510819155668041,0,0.6097987296562415,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0110549009976935,0,0.1185735608002849,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0425126882523954,0,0.2127284989973784,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1211139973149555,0,0.4391863942938317,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0713162665689875,0,0.3571616143513834,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.4938449271926971,0,0.5890984996843591,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.230905015641768,0,0.5028253394723677,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0437798845540617,0,0.2814112681573191,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.4955195532490442,0,0.7081580139735155,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0519655024366048,0,0.3912455188964293,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0051272724725754,0,0.1488229450864293,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0868572306280215,0,0.3768938003412667,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.8388000226501524,1,0.7018363081595282,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.2533821495798178,0,0.44177290470263,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.3823518066570075,0,0.6025106563182498,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.4888150740516736,0,0.6788781412611749,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.4845036855340408,0,0.5905405515120628,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0028741377821826,0,0.134987421594869,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.001974312606504,0,0.1163490127097204,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0019343302497431,0,0.1739550307162241,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0126607312070476,0,0.1831221287324824,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.7099006718071071,1,0.6297857314823857,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.1471785196092886,0,0.227002378179291,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0240444367753072,0,0.1882501094301457,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0042931216437132,0,0.1664384941501533,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.1196460816135533,0,0.460695440783046,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.009071319264231,0,0.1265726369421198,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.0703374462172585,0,0.4031433551664994,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.0269324706372123,0,0.323133529025563,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.002284663868709,0,0.2321402388292643,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.6032329211407167,1,0.7417320482296437,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.3883655429074827,0,0.4748736867290614,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0028548244024585,0,0.161933421815032,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0797884006240136,0,0.2485937830642892,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0593151501029109,0,0.3206783231100362,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.3802081404143924,0,0.5712063707315415,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.4397871671520266,0,0.6307798674762516,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.3594146584309995,0,0.5784351421393016,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.153938679102612,0,0.4442136815754589,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0856721975732718,0,0.4747836121009725,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.6514036611581946,1,0.7528850009840028,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.5986933117533862,1,0.5813258772384686,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0082948085415257,0,0.2862603499139944,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.3602090083006419,0,0.5666050946805108,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.2409270321840648,0,0.5348957739179226,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.8032025939697761,1,0.7162957862584901,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0132077046553315,0,0.2423159043855846,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0286442809903027,0,0.3573058510665216,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0081085852096758,0,0.1557916338552437,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0084222658826852,0,0.1272485715720918,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1760401720342645,0,0.3761576732818148,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0280110365136361,0,0.164143874026472,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.3057494837332815,0,0.6451845918158412,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.6729506554221468,1,0.7293476012134381,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0077862715990058,0,0.2277485402038278,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.636363491598504,1,0.5569874946180213,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0973012168595693,0,0.3755599332358623,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.3751386736494685,0,0.507350053339606,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0102651456813688,0,0.205686450876807,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.5732144195923821,1,0.7393779138500578,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.1977450245353101,0,0.6134865710473312,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.3672128902311313,0,0.6017652181459405,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0125029873833528,0,0.158830516167385,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0335647469442972,0,0.1670174667911561,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.4714288791887566,0,0.6271785335223605,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.5397606415814483,1,0.5782246985274219,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.1194271610497031,0,0.4180931666990236,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.488748189635539,0,0.6172223925757202,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.7198182253748583,1,0.7188057090838901,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.6799545222246489,1,0.7049033644712642,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.1809208398267263,0,0.3926024634453994,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0108632565681326,0,0.148988105074808,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.534286490537568,1,0.5377575650783658,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+1,0.3287032238953576,0,0.5711289295696244,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0888283690196517,0,0.3967500916636258,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.1173709864000588,0,0.445196800546652,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.6942481712401392,1,0.6128801588536988,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.1595033049418283,0,0.5387807369749136,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.4833215365361915,0,0.6445434165184983,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.1136685897718084,0,0.3422383890797263,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.5845790412162727,1,0.6424910321253471,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.2691713962887649,0,0.495769463147234,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+1,0.81464404339002,1,0.7522657395065667,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.4063241965447225,0,0.6347049413798214,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.5788272563711354,1,0.7150800665508729,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0190203633375849,0,0.3203535836659114,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.1660252570836497,0,0.4137087708518094,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0008873273210058,0,0.1376275293571603,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.35292614494931,0,0.6404776456048009,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.3807914126588542,0,0.6156415762028629,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0605608455767821,0,0.214517667876034,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.4909349709794147,0,0.7049443501363879,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.4609953567703422,0,0.6620208878878014,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.5956568013836616,1,0.6464447997276163,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.0933233478348801,0,0.4258004656279648,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.0019656166582845,0,0.1708912098571986,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0120288114391057,0,0.2637053891689013,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.1491287485361718,0,0.4534930704908793,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0012085261543769,0,0.1302635560652633,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0029562785916291,0,0.1847494034362559,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.1489361617058891,0,0.2999253474536149,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0138708767228814,0,0.2431958109550252,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0729012084429404,0,0.2311299633647264,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.3285904456112052,0,0.604155428038099,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0134825835165565,0,0.2499669057847336,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0152104175355335,0,0.2256208936211521,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.7284844046120829,1,0.7558075076922272,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.4363413558104526,0,0.6197921202744345,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.1608106106930448,0,0.5795331162696302,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.1252091997826138,0,0.25876598266811,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0043452797638305,0,0.1708222911676367,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.1971764852350739,0,0.4001935600303237,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0703423588535198,0,0.2484492100512498,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0140885578059239,0,0.1184282701264282,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0032452815792112,0,0.2482331743123464,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0141193375176534,0,0.377138171518964,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0566169374131818,0,0.3109767060154325,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.0725900012654516,0,0.3228626272647715,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+1,0.1267819661705384,0,0.3826508270969575,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.0803001938490157,0,0.4366247722488381,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.1297500979640193,0,0.372902497813912,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0017797310019561,0,0.1981659160482288,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.5750530943411847,1,0.7498800201573325,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.184951068644795,0,0.3086171315933301,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0846309847452152,0,0.2759173482927625,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.3349002949211881,0,0.5687141098545002,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+1,0.3977848205763403,0,0.5902024090429817,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0145868883042971,0,0.2456857361369145,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.125430186159405,0,0.503489821728693,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.1066030452257539,0,0.2477513629447056,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.3838605072066662,0,0.5138387904281495,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0031012246400535,0,0.1389799817650852,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1046017788928394,0,0.4228127364888475,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.8360611282501184,1,0.6969768399880126,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.014781769530576,0,0.2459962139284883,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0005777014618118,0,0.1457935787073213,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0549393370901438,0,0.4306959686891191,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.6407729739322748,1,0.7000526686734824,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.1687809409149027,0,0.3087476103784152,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.0911543158174868,0,0.4033541218703918,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.0124219822726364,0,0.1811256476985794,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.3108648278592246,0,0.4809220417026316,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.439752279509973,0,0.6333622394665528,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.2587539006611081,0,0.5183710524232753,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0296261401408516,0,0.3051269773636117,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.3229076370748748,0,0.5935406305656996,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.4629428412312356,0,0.6200856966132157,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.2073459613992127,0,0.3916245079967498,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.4442443924919854,0,0.6638191719132057,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.2592135633872922,0,0.5015333498758202,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0371745521040612,0,0.3436871376536255,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0516994918546531,0,0.2612870235736081,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.5438468722354395,1,0.5914756479542558,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0083649622924864,0,0.1265043909913713,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1171990407342925,0,0.2864917473935246,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.6518225141317423,1,0.7672036949346208,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+1,0.5460562363940774,1,0.6724315935134524,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0386278126964412,0,0.3745278793705143,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.7192248158014215,1,0.7256202920056459,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.2807896455896781,0,0.6022838761182205,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.7524062166338434,1,0.5997548412772401,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0208699506100438,0,0.1843375626254502,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.6618728574886699,1,0.6485514840707648,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.329402597889868,0,0.5891380739765504,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.263353328006425,0,0.5975952135826202,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0235567115004225,0,0.2355405932031138,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0275517601750885,0,0.2228293486767291,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.1743044538844537,0,0.3353226709832075,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+1,0.4927136377829593,0,0.5896107621820407,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0735907336606153,0,0.3167365584397836,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.8453218456796006,1,0.7672741827790129,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.5225022045953643,1,0.5742180568513525,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0041506073165894,0,0.126576356420059,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.7866209200457489,1,0.7523115234876291,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.2189793161487578,0,0.4987651840609954,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0517723280403434,0,0.4408207411665521,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.5070275731750719,1,0.6209604981005039,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.2171612230380206,0,0.477899810162784,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.4738471646439887,0,0.7012127131181545,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.2290381087215473,0,0.3390239967107898,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.3521471117928732,0,0.5384007014904293,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0199864325684333,0,0.3352909371869825,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0078773651370367,0,0.2445108123557868,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.4407064970444869,0,0.6122599491806447,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.4578003727870414,0,0.6831841030136856,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0030102691018089,0,0.1475972609893861,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.6897784219162394,1,0.6765461973422721,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.8258082836608839,1,0.761531586168351,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.1303132863280287,0,0.393744212838119,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.1729773104776603,0,0.5000114582922501,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.1075983972700989,0,0.3998429138666563,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0866727646947061,0,0.4427123917748028,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.8091213296903894,1,0.7712316054827063,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.922430938091881,1,0.7605487522320794,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.0046909349320161,0,0.1876951510011681,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.2703005822193599,0,0.5118112483239436,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+1,0.68626101553181,1,0.6697591314967284,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.000785532434397,0,0.1088385018293987,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.34304605164081,0,0.571193388353576,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0265494502690125,0,0.1995273970763349,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0265857762616966,0,0.4221744079135425,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0202461621738206,0,0.3335719334862422,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.070099598881746,0,0.2526419772249736,0,Low Risk,3,"(0.25, 0.3]",Churned,Predicted No Churn
+0,0.0216168059411548,0,0.2705672998832225,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0241444886797324,0,0.1921004014384278,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.7244971207244082,1,0.7456920375233256,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0035984996143143,0,0.1882159834219226,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.4362944849256036,0,0.68250294116787,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.0144365996300109,0,0.315700843342298,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.7412190789011818,1,0.7430742263054759,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.1271693413069581,0,0.3047512242934292,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0040094350998881,0,0.2011540504022427,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.5514651852195007,1,0.6198475253752846,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.1970740050390873,0,0.3614248899703096,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+1,0.0639333643147379,0,0.2318527111311313,0,Low Risk,3,"(0.2, 0.25]",Churned,Predicted No Churn
+0,0.1917122839238978,0,0.4693769045584541,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.343940299245202,0,0.5235217143030866,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0206112987322845,0,0.2493750233829451,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.3888537147968626,0,0.5541612634158909,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0031770024813381,0,0.1341027923224481,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.1746173540337807,0,0.4855138623281839,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.2948635700368094,0,0.4814933299748976,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.2475147497995923,0,0.2993699694238786,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.6665626476510594,1,0.7368744631090606,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0561363197855282,0,0.3299904119533975,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.4843866246151277,0,0.6277084405160146,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0367996527398742,0,0.3001181791328257,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0006336542795196,0,0.1163835440017852,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0670940684572322,0,0.2137831952559646,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.1920116253124165,0,0.2889398305532258,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.2833725215190423,0,0.4887558065661436,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.3608249724836718,0,0.2895327649558973,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0909647365208432,0,0.2100959048363665,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0080156210897138,0,0.2595071472033281,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.6947217553191686,1,0.7116902220372792,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.4816913463939312,0,0.552847715913643,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.4994829051396178,0,0.5891975961966814,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.2004336794049522,0,0.5202773382088483,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.5568797728972139,1,0.6812030883896497,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.1032932925954411,0,0.359656042984296,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0033578630091801,0,0.1298484854289259,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.4058119227564261,0,0.5006860004713951,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0119253291223679,0,0.2631664015508131,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0392783535312256,0,0.2156056548431032,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.5811947582683552,1,0.3547184675298332,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.0031635337032222,0,0.143858522202262,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.0156906341141273,0,0.2468956650548595,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.4404406243115364,0,0.567489064759521,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+1,0.6703424321210631,1,0.6795996708805044,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0038931601784242,0,0.1527679898275392,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0013426207215719,0,0.2063670969681326,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.3936759756018044,0,0.585096264987464,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.1314436267034349,0,0.4163624770080781,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.043104838419155,0,0.170266254390516,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0427786738829109,0,0.3735473446901999,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0202556829809823,0,0.1810630155282289,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.8516694755603895,1,0.7509037786344913,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+1,0.5704171360200716,1,0.6702541508404738,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0028040274018476,0,0.1771853268371538,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.2021947996530175,0,0.432072865061432,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.8108031052869424,1,0.6963521435650492,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.5887310760320537,1,0.7509673689121247,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.573628340679219,1,0.719276327257507,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+1,0.5478848725031875,1,0.5437171208992393,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0062383254291791,0,0.1739954974252998,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.3712111155902214,0,0.5845638004946023,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.5505257708636081,1,0.6754623030558607,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.6793889062443682,1,0.6886178844477571,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.098304924869186,0,0.3353960100410094,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.7935651760052035,1,0.7587367512405944,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.3458961626072867,0,0.5432373077946213,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.5755683962598439,1,0.6256332262995925,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0128748111527371,0,0.2423105488266883,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.2047946598927267,0,0.5781377980854303,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.1084122527745461,0,0.3014336914188699,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.2719845748930763,0,0.5658449787434114,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.1516314911925857,0,0.4551285787291763,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0344883879669772,0,0.3158155893269586,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.507715111168709,1,0.6163138846141352,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.1649095568126187,0,0.469134098956403,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0216353707404365,0,0.2698030884989534,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.4537674990962302,0,0.6101735785093547,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.10917054001778,0,0.312226458598189,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.3324661688146526,0,0.4105044839790933,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.0132113177188718,0,0.1757981994262395,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.6129280420523828,1,0.6023383059649299,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.7353117389091368,1,0.7525056070173599,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+0,0.3566213455858414,0,0.5107369334069943,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0219538631239657,0,0.4220943546392531,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0226149597282378,0,0.198549326380909,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.7969036190304386,1,0.7582147979943415,1,High Risk,1,"(0.75, 0.8]",Churned,Predicted Churn
+1,0.8455954033726617,1,0.7492223077848906,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0252491153201947,0,0.2756516355383014,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.6154061530552463,1,0.6058959740308353,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+1,0.778081012567711,1,0.7026556982447272,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0321050764590449,0,0.3865203759968147,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0016076918906885,0,0.1163305451115028,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+1,0.0360724838362353,0,0.3257777128805058,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.1848629116997696,0,0.3824963761378954,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0318916862251271,0,0.3003791255057332,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.5576744894391433,1,0.562181903795443,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0944301063017611,0,0.3873214381272562,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0765838131935917,0,0.3393848896908855,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.4036844304988072,0,0.6544861310593731,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+0,0.4585382591576494,0,0.6090800836618101,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.3808597160159677,0,0.5672648922858649,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.0340014673797354,0,0.3065969653959726,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0539478501373496,0,0.3673776487306445,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.2650606934837433,0,0.4486074440339103,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.0991235375219884,0,0.2553435439350285,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.4472310163935919,0,0.6299102394310874,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.410387925732243,0,0.5033794609218235,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.0691169189381771,0,0.3882713976052425,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0229427790441048,0,0.3244226475179596,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.4859440197503499,0,0.5594081773629411,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0030282867902049,0,0.159185858994223,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.0323350384616301,0,0.3932187860892602,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.1450709213900787,0,0.3942358013603102,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.7884399481561246,1,0.6358050468305173,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.3698746665072743,0,0.5513728749639114,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+1,0.2089172132538257,0,0.4402772911064048,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.1241814248737741,0,0.4686656250834011,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0037791830506089,0,0.1406490650399138,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.012913039971578,0,0.263618360868167,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.2231339458519025,0,0.3677093413508906,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+1,0.3976402607547121,0,0.3519744262235315,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.0132674666209111,0,0.2040647811647822,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.5736543967746598,1,0.646225217732783,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.6145857269645383,1,0.7559505466645683,1,High Risk,1,"(0.75, 0.8]",Not Churned,Predicted Churn
+0,0.1044265985793781,0,0.3915579982784179,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0689508389283456,0,0.4531673951245214,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1012332383909608,0,0.2477925163205522,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0072222491399435,0,0.158910655336754,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.6941274227077585,1,0.6748401255550907,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.142511899959848,0,0.4071614745165267,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.7129677300379904,1,0.7368222694275604,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.0140618495399926,0,0.1857114593089206,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.00554536786029,0,0.1604009887786787,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.5175366232021308,1,0.616598954535924,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0637646358652829,0,0.4455934976734512,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.5482058794912248,1,0.5762299243913974,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0280521287561442,0,0.4104650895849122,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.0776905825003848,0,0.3542814377736963,0,Low Risk,3,"(0.35, 0.4]",Churned,Predicted No Churn
+0,0.0175461533865294,0,0.2674004342227123,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.5371041638170678,1,0.6435831275362297,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.0969665244179674,0,0.4031826415143878,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.1871562007108528,0,0.3931532701515843,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.2146731765111322,0,0.435294279581724,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.152338961677955,0,0.5365032234064402,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0148930524922096,0,0.2072067122639365,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.3562075524182984,0,0.5942487054794008,1,Medium Risk,2,"(0.55, 0.6]",Not Churned,Predicted Churn
+0,0.0225834121294264,0,0.2786389135997674,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.0097025366892705,0,0.308308936495385,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.5977787364132873,1,0.7462423642343211,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+0,0.003400372596762,0,0.1500542551438143,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.3356455229357458,0,0.6643731532188607,1,Medium Risk,2,"(0.65, 0.7]",Not Churned,Predicted Churn
+1,0.6949009852886381,1,0.6824854988832094,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.2141408588327949,0,0.3285958903363885,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.3869684928606396,0,0.5327452835833811,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.4531691052824955,0,0.5159478624938033,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.1784569015220044,0,0.3661824097229281,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.1734595521926047,0,0.4927195818774932,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1187752761888172,0,0.4557839152419767,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.0065768362215908,0,0.2172164465146225,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0399625391478851,0,0.4329422227193495,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+0,0.0126411152902916,0,0.2118860079379632,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.0103394457750018,0,0.1759060831977233,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0113174022384952,0,0.252691977089986,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.3602677413606544,0,0.6246529247055831,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.111907701039171,0,0.4183450092028174,0,Medium Risk,2,"(0.4, 0.45]",Churned,Predicted No Churn
+0,0.1979058092640117,0,0.5233532935514101,1,Medium Risk,2,"(0.5, 0.55]",Not Churned,Predicted Churn
+0,0.0028696447687317,0,0.1469263155946456,0,Low Risk,3,"(0.1, 0.15]",Not Churned,Predicted No Churn
+0,0.1232242162657663,0,0.3743884755059696,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0069860841310375,0,0.1556002058515273,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+0,0.0960765221973723,0,0.4983109599768737,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.1446033170527349,0,0.4832305301744047,0,Medium Risk,2,"(0.45, 0.5]",Not Churned,Predicted No Churn
+0,0.5836268918136359,1,0.70076803756869,1,High Risk,1,"(0.7, 0.75]",Not Churned,Predicted Churn
+0,0.0029716716754647,0,0.2595796251824662,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+0,0.004252865061906,0,0.1641947390829883,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.6644884528902009,1,0.6929541197638193,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.7564919137638113,1,0.6872316381549958,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+1,0.4039225278552366,0,0.594234616060021,1,Medium Risk,2,"(0.55, 0.6]",Churned,Predicted Churn
+0,0.021827201924717,0,0.3026614813969957,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+0,0.0590833510182863,0,0.2023525424829413,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+0,0.3774531215679229,0,0.6274829180755144,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+1,0.6183745945805149,1,0.6752397277794964,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.4021898298335572,0,0.6298305810079361,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn
+0,0.0272405214109929,0,0.3531230865177427,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.0560226696424463,0,0.276779151751072,0,Low Risk,3,"(0.25, 0.3]",Not Churned,Predicted No Churn
+1,0.2330303811162355,0,0.3379943152246524,0,Low Risk,3,"(0.3, 0.35]",Churned,Predicted No Churn
+0,0.0335963603083288,0,0.2005815618036714,0,Low Risk,3,"(0.2, 0.25]",Not Churned,Predicted No Churn
+1,0.7585390988141925,1,0.6865281015346997,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.1597701652116407,0,0.3037268686945701,0,Low Risk,3,"(0.3, 0.35]",Not Churned,Predicted No Churn
+1,0.4901320324581038,0,0.6770117596342854,1,Medium Risk,2,"(0.65, 0.7]",Churned,Predicted Churn
+0,0.0134022312723812,0,0.1920871325636404,0,Low Risk,3,"(0.15, 0.2]",Not Churned,Predicted No Churn
+1,0.7208116039952517,1,0.7452238189046457,1,High Risk,1,"(0.7, 0.75]",Churned,Predicted Churn
+1,0.4322941200932079,0,0.5496319146012303,1,Medium Risk,2,"(0.5, 0.55]",Churned,Predicted Churn
+0,0.2745179670442925,0,0.3611245004537597,0,Low Risk,3,"(0.35, 0.4]",Not Churned,Predicted No Churn
+0,0.1089139786910896,0,0.4309111274259847,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.5356015403800698,1,0.6269440060928139,1,Medium Risk,2,"(0.6, 0.65]",Churned,Predicted Churn
+0,0.199565830592097,0,0.4256328237263596,0,Medium Risk,2,"(0.4, 0.45]",Not Churned,Predicted No Churn
+1,0.3386663066883388,0,0.4600613642935113,0,Medium Risk,2,"(0.45, 0.5]",Churned,Predicted No Churn
+0,0.7638674223703821,1,0.6041479013157702,1,Medium Risk,2,"(0.6, 0.65]",Not Churned,Predicted Churn

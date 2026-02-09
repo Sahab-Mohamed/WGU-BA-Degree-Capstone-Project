@@ -1,0 +1,16 @@
+feature,importance,feature_display,importance_pct
+contract_Month-to-month,0.0840074761939628,Contract Month-To-Month,8.4
+dependents_True,0.0785488285096107,Dependents True,7.85
+contract_Two year,0.0707313871676991,Contract Two Year,7.07
+internet_service_Fiber optic,0.0607147222028388,Internet Svc Fiber Optic,6.07
+tech_support_No,0.0547305698326401,Tech Supp. No,5.47
+tech_support_No internet service,0.0528922748019584,Tech Supp. No Internet Svc,5.29
+tenure,0.0502734474986851,Tenure,5.03
+total_charges,0.0443529860371531,Total Charges,4.44
+tenure_months,0.0364092221359055,Tenure Months,3.64
+online_security_Yes,0.0362709911545897,Online Sec. Yes,3.63
+online_security_No,0.0318166769438043,Online Sec. No,3.18
+internet_service_No,0.0287175745162418,Internet Svc No,2.87
+monthly_charges,0.0286017174424537,Monthly Charges,2.86
+dependents_False,0.0265906467054291,Dependents False,2.66
+device_protection_No internet service,0.0254268683725871,Device Prot. No Internet Svc,2.54

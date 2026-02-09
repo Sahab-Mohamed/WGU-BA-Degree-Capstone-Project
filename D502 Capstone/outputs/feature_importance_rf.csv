@@ -1,0 +1,1182 @@
+feature,importance
+contract_Month-to-month,0.08400747619396287
+dependents_True,0.07854882850961072
+contract_Two year,0.07073138716769918
+internet_service_Fiber optic,0.06071472220283889
+tech_support_No,0.05473056983264018
+tech_support_No internet service,0.052892274801958405
+tenure,0.050273447498685155
+total_charges,0.04435298603715314
+tenure_months,0.036409222135905535
+online_security_Yes,0.03627099115458978
+online_security_No,0.03181667694380438
+internet_service_No,0.028717574516241844
+monthly_charges,0.028601717442453767
+dependents_False,0.02659064670542914
+device_protection_No internet service,0.025426868372587147
+payment_method_Electronic check,0.024111426882609862
+online_backup_No internet service,0.023496065703986258
+paperless_billing_True,0.023274436412554732
+device_protection_No,0.02180578940736875
+contract_One year,0.016512495937411845
+tech_support_Yes,0.015191777744116286
+online_backup_No,0.015183112480814562
+online_security_No internet service,0.014426950219844605
+streaming_tv_No internet service,0.011581006485948887
+payment_method_Credit card (automatic),0.01153311550875189
+streaming_movies_No internet service,0.010368442713989474
+cltv,0.009917420216049045
+partner_False,0.008194267798121546
+latitude,0.008015613254994912
+paperless_billing_False,0.007292534708760823
+longitude,0.006980542771230479
+streaming_tv_Yes,0.006612198267100129
+zip_code,0.006163772872930422
+senior_citizen_Yes,0.004907647218187977
+partner_True,0.004549354158556593
+streaming_movies_Yes,0.004125335105808984
+internet_service_DSL,0.0037824687273939244
+streaming_tv_No,0.0037631119616572104
+senior_citizen_No,0.0033596097884811007
+payment_method_Bank transfer (automatic),0.0033347461302716186
+device_protection_Yes,0.002360848722647569
+streaming_movies_No,0.0023235305710706472
+multiple_lines_Yes,0.002197148590728936
+payment_method_Mailed check,0.001897133361507333
+online_backup_Yes,0.001598287331146069
+gender_Female,0.001411881750812626
+multiple_lines_No,0.0012022933363364022
+multiple_lines_No phone service,0.001106219989938892
+gender_Male,0.0010400109381986816
+phone_service_False,0.0008841058717466526
+city_Los Angeles,0.0005586223859375372
+phone_service_True,0.00045918235941974455
+city_San Francisco,0.0003757847182993147
+city_San Diego,0.000293237197561035
+city_Sacramento,0.0002517713975584601
+city_Burbank,0.00025092373738691304
+city_Santa Barbara,0.00020662989575568014
+city_Corona,0.0001845290873041865
+city_Bakersfield,0.00016411859207000022
+city_Santa Maria,0.00015660473653181998
+city_San Jose,0.00015454324749798545
+city_Fresno,0.00014264925037033564
+city_Lake Elsinore,0.00014248147995199486
+city_West Covina,0.0001226691474095044
+city_Pomona,0.00011366688551108178
+city_El Monte,0.00011056979380561823
+city_Fullerton,0.00010798260326259133
+city_Palmdale,0.00010594070472866656
+city_Vallejo,0.00010456935552087382
+city_Stockton,0.00010274401853414007
+city_Temecula,0.00010232597470751569
+city_Anaheim,9.620067671426791e-05
+city_Hemet,9.475990696692038e-05
+city_Redondo Beach,9.44189800397117e-05
+city_Orange,9.18281589236663e-05
+city_Beverly Hills,8.569672229665647e-05
+city_Rancho Cucamonga,8.263784919383654e-05
+city_Irvine,8.080188873384968e-05
+city_Compton,6.398218389104134e-05
+city_Whittier,6.052935699571019e-05
+city_Long Beach,5.2815872698109946e-05
+city_Carlsbad,5.1526800562774514e-05
+city_Newport Beach,4.980354234615045e-05
+city_Torrance,3.9899009739025625e-05
+city_Canoga Park,3.818203034580176e-05
+city_Gardena,3.485980705909393e-05
+city_Modesto,3.4200947525208906e-05
+city_La Mesa,3.0369508145848482e-05
+city_North Hollywood,2.9312351086485896e-05
+city_Redwood City,2.597571147458907e-05
+city_Clovis,2.170592333013369e-05
+city_Palo Alto,1.9041631741534647e-05
+city_Santa Monica,9.181938113616007e-06
+city_Van Nuys,4.425600259666754e-06
+city_Glendale,3.4087690620439323e-06
+city_Inglewood,1.6201994495444624e-06
+city_Palm Desert,1.0418318610047158e-06
+city_Roseville,1.337756828258221e-07
+city_Angwin,0.0
+city_Annapolis,0.0
+city_Antelope,0.0
+city_Antioch,0.0
+city_Anza,0.0
+city_Apple Valley,0.0
+city_Applegate,0.0
+city_Aptos,0.0
+city_Arbuckle,0.0
+city_Arcadia,0.0
+city_Arcata,0.0
+city_Armona,0.0
+city_Arnold,0.0
+city_Aromas,0.0
+city_Arroyo Grande,0.0
+city_Artesia,0.0
+city_Arvin,0.0
+city_Atascadero,0.0
+city_Atherton,0.0
+city_Atwater,0.0
+city_Auberry,0.0
+city_Auburn,0.0
+city_Avalon,0.0
+city_Avenal,0.0
+city_Avery,0.0
+city_Avila Beach,0.0
+city_Azusa,0.0
+city_Badger,0.0
+city_Baker,0.0
+city_Baldwin Park,0.0
+city_Ballico,0.0
+city_Bangor,0.0
+city_Banning,0.0
+city_Barstow,0.0
+city_Bass Lake,0.0
+city_Bayside,0.0
+city_Beale Afb,0.0
+city_Beaumont,0.0
+city_Bell,0.0
+city_Bella Vista,0.0
+city_Bellflower,0.0
+city_Belmont,0.0
+city_Belvedere Tiburon,0.0
+city_Ben Lomond,0.0
+city_Benicia,0.0
+city_Benton,0.0
+city_Berkeley,0.0
+city_Berry Creek,0.0
+city_Bethel Island,0.0
+city_Bieber,0.0
+city_Big Bar,0.0
+city_Big Bear City,0.0
+city_Big Bear Lake,0.0
+city_Big Bend,0.0
+city_Big Creek,0.0
+city_Big Oak Flat,0.0
+city_Big Pine,0.0
+city_Big Sur,0.0
+city_Biggs,0.0
+city_Biola,0.0
+city_Birds Landing,0.0
+city_Bishop,0.0
+city_Blairsden Graeagle,0.0
+city_Blocksburg,0.0
+city_Bloomington,0.0
+city_Blue Lake,0.0
+city_Blythe,0.0
+city_Bodega,0.0
+city_Bodega Bay,0.0
+city_Bodfish,0.0
+city_Bolinas,0.0
+city_Bonita,0.0
+city_Bonsall,0.0
+city_Boonville,0.0
+city_Boron,0.0
+city_Borrego Springs,0.0
+city_Boulder Creek,0.0
+city_Boulevard,0.0
+city_Bradley,0.0
+city_Branscomb,0.0
+city_Brawley,0.0
+city_Brea,0.0
+city_Brentwood,0.0
+city_Bridgeport,0.0
+city_Bridgeville,0.0
+city_Brisbane,0.0
+city_Brookdale,0.0
+city_Brooks,0.0
+city_Browns Valley,0.0
+city_Brownsville,0.0
+city_Buellton,0.0
+city_Buena Park,0.0
+city_Burlingame,0.0
+city_Burney,0.0
+city_Burnt Ranch,0.0
+city_Burson,0.0
+city_Butte City,0.0
+city_Buttonwillow,0.0
+city_Byron,0.0
+city_Cabazon,0.0
+city_Calabasas,0.0
+city_Calexico,0.0
+city_Caliente,0.0
+city_California City,0.0
+city_California Hot Springs,0.0
+city_Calimesa,0.0
+city_Calipatria,0.0
+city_Calistoga,0.0
+city_Callahan,0.0
+city_Calpine,0.0
+city_Camarillo,0.0
+city_Cambria,0.0
+city_Camino,0.0
+city_Camp Nelson,0.0
+city_Campbell,0.0
+city_Campo,0.0
+city_Campo Seco,0.0
+city_Camptonville,0.0
+city_Canby,0.0
+city_Cantua Creek,0.0
+city_Canyon Country,0.0
+city_Canyon Dam,0.0
+city_Capay,0.0
+city_Capistrano Beach,0.0
+city_Capitola,0.0
+city_Cardiff By The Sea,0.0
+city_Carlotta,0.0
+city_Carmel,0.0
+city_Carmel By The Sea,0.0
+city_Carmel Valley,0.0
+city_Carmichael,0.0
+city_Carnelian Bay,0.0
+city_Carpinteria,0.0
+city_Carson,0.0
+city_Caruthers,0.0
+city_Casmalia,0.0
+city_Caspar,0.0
+city_Cassel,0.0
+city_Castaic,0.0
+city_Castella,0.0
+city_Castro Valley,0.0
+city_Castroville,0.0
+city_Cathedral City,0.0
+city_Catheys Valley,0.0
+city_Cayucos,0.0
+city_Cazadero,0.0
+city_Cedar Glen,0.0
+city_Cedarville,0.0
+city_Ceres,0.0
+city_Cerritos,0.0
+city_Challenge,0.0
+city_Chatsworth,0.0
+city_Chester,0.0
+city_Chico,0.0
+city_Chilcoot,0.0
+city_Chino,0.0
+city_Chino Hills,0.0
+city_Chowchilla,0.0
+city_Chualar,0.0
+city_Chula Vista,0.0
+city_Citrus Heights,0.0
+city_Claremont,0.0
+city_Clarksburg,0.0
+city_Clayton,0.0
+city_Clearlake,0.0
+city_Clearlake Oaks,0.0
+city_Clements,0.0
+city_Clio,0.0
+city_Clipper Mills,0.0
+city_Cloverdale,0.0
+city_Coachella,0.0
+city_Coalinga,0.0
+city_Coarsegold,0.0
+city_Cobb,0.0
+city_Coleville,0.0
+city_Colfax,0.0
+city_Colton,0.0
+city_Columbia,0.0
+city_Colusa,0.0
+city_Comptche,0.0
+city_Concord,0.0
+city_Cool,0.0
+city_Copperopolis,0.0
+city_Corcoran,0.0
+city_Corning,0.0
+city_Corona Del Mar,0.0
+city_Coronado,0.0
+city_Corte Madera,0.0
+city_Costa Mesa,0.0
+city_Cotati,0.0
+city_Cottonwood,0.0
+city_Coulterville,0.0
+city_Courtland,0.0
+city_Covelo,0.0
+city_Covina,0.0
+city_Crescent City,0.0
+city_Crescent Mills,0.0
+city_Cressey,0.0
+city_Crestline,0.0
+city_Creston,0.0
+city_Crockett,0.0
+city_Crows Landing,0.0
+city_Culver City,0.0
+city_Cupertino,0.0
+city_Cutler,0.0
+city_Cypress,0.0
+city_Daggett,0.0
+city_Daly City,0.0
+city_Dana Point,0.0
+city_Danville,0.0
+city_Darwin,0.0
+city_Davenport,0.0
+city_Davis,0.0
+city_Davis Creek,0.0
+city_Death Valley,0.0
+city_Deer Park,0.0
+city_Del Mar,0.0
+city_Del Rey,0.0
+city_Delano,0.0
+city_Delhi,0.0
+city_Denair,0.0
+city_Descanso,0.0
+city_Desert Center,0.0
+city_Desert Hot Springs,0.0
+city_Diamond Bar,0.0
+city_Diamond Springs,0.0
+city_Dillon Beach,0.0
+city_Dinuba,0.0
+city_Dixon,0.0
+city_Dobbins,0.0
+city_Dorris,0.0
+city_Dos Palos,0.0
+city_Dos Rios,0.0
+city_Douglas City,0.0
+city_Downey,0.0
+city_Downieville,0.0
+city_Doyle,0.0
+city_Duarte,0.0
+city_Dublin,0.0
+city_Ducor,0.0
+city_Dulzura,0.0
+city_Duncans Mills,0.0
+city_Dunlap,0.0
+city_Dunnigan,0.0
+city_Dunsmuir,0.0
+city_Durham,0.0
+city_Dutch Flat,0.0
+city_Eagleville,0.0
+city_Earlimart,0.0
+city_Earp,0.0
+city_Echo Lake,0.0
+city_Edwards,0.0
+city_El Cajon,0.0
+city_El Centro,0.0
+city_El Cerrito,0.0
+city_El Dorado,0.0
+city_El Dorado Hills,0.0
+city_El Nido,0.0
+city_El Portal,0.0
+city_El Segundo,0.0
+city_El Sobrante,0.0
+city_Eldridge,0.0
+city_Elk,0.0
+city_Elk Creek,0.0
+city_Elk Grove,0.0
+city_Elmira,0.0
+city_Elverta,0.0
+city_Emeryville,0.0
+city_Emigrant Gap,0.0
+city_Encinitas,0.0
+city_Encino,0.0
+city_Escalon,0.0
+city_Escondido,0.0
+city_Esparto,0.0
+city_Essex,0.0
+city_Etna,0.0
+city_Eureka,0.0
+city_Exeter,0.0
+city_Fair Oaks,0.0
+city_Fairfax,0.0
+city_Fairfield,0.0
+city_Fall River Mills,0.0
+city_Fallbrook,0.0
+city_Farmersville,0.0
+city_Farmington,0.0
+city_Fawnskin,0.0
+city_Fellows,0.0
+city_Felton,0.0
+city_Ferndale,0.0
+city_Fiddletown,0.0
+city_Fields Landing,0.0
+city_Fillmore,0.0
+city_Firebaugh,0.0
+city_Fish Camp,0.0
+city_Five Points,0.0
+city_Flournoy,0.0
+city_Folsom,0.0
+city_Fontana,0.0
+city_Foothill Ranch,0.0
+city_Forbestown,0.0
+city_Forest Falls,0.0
+city_Forest Knolls,0.0
+city_Forest Ranch,0.0
+city_Foresthill,0.0
+city_Forestville,0.0
+city_Forks Of Salmon,0.0
+city_Fort Bidwell,0.0
+city_Fort Bragg,0.0
+city_Fort Irwin,0.0
+city_Fort Jones,0.0
+city_Fortuna,0.0
+city_Fountain Valley,0.0
+city_Fowler,0.0
+city_Frazier Park,0.0
+city_Freedom,0.0
+city_Fremont,0.0
+city_French Camp,0.0
+city_French Gulch,0.0
+city_Friant,0.0
+city_Fulton,0.0
+city_Galt,0.0
+city_Garberville,0.0
+city_Garden Grove,0.0
+city_Garden Valley,0.0
+city_Gasquet,0.0
+city_Gazelle,0.0
+city_Georgetown,0.0
+city_Gerber,0.0
+city_Geyserville,0.0
+city_Gilroy,0.0
+city_Glen Ellen,0.0
+city_Glencoe,0.0
+city_Glendora,0.0
+city_Glenhaven,0.0
+city_Glenn,0.0
+city_Glennville,0.0
+city_Gold Run,0.0
+city_Goleta,0.0
+city_Gonzales,0.0
+city_Goodyears Bar,0.0
+city_Granada Hills,0.0
+city_Grand Terrace,0.0
+city_Granite Bay,0.0
+city_Grass Valley,0.0
+city_Graton,0.0
+city_Green Valley Lake,0.0
+city_Greenbrae,0.0
+city_Greenfield,0.0
+city_Greenview,0.0
+city_Greenville,0.0
+city_Greenwood,0.0
+city_Grenada,0.0
+city_Gridley,0.0
+city_Grimes,0.0
+city_Grizzly Flats,0.0
+city_Groveland,0.0
+city_Grover Beach,0.0
+city_Guadalupe,0.0
+city_Gualala,0.0
+city_Guatay,0.0
+city_Guerneville,0.0
+city_Guinda,0.0
+city_Gustine,0.0
+city_Hacienda Heights,0.0
+city_Half Moon Bay,0.0
+city_Hamilton City,0.0
+city_Hanford,0.0
+city_Happy Camp,0.0
+city_Harbor City,0.0
+city_Hat Creek,0.0
+city_Hathaway Pines,0.0
+city_Hawaiian Gardens,0.0
+city_Hawthorne,0.0
+city_Hayfork,0.0
+city_Hayward,0.0
+city_Healdsburg,0.0
+city_Heber,0.0
+city_Helendale,0.0
+city_Helm,0.0
+city_Herald,0.0
+city_Hercules,0.0
+city_Herlong,0.0
+city_Hermosa Beach,0.0
+city_Hesperia,0.0
+city_Hickman,0.0
+city_Highland,0.0
+city_Hilmar,0.0
+city_Hinkley,0.0
+city_Hollister,0.0
+city_Holtville,0.0
+city_Homeland,0.0
+city_Homewood,0.0
+city_Honeydew,0.0
+city_Hood,0.0
+city_Hoopa,0.0
+city_Hopland,0.0
+city_Hornbrook,0.0
+city_Hornitos,0.0
+city_Hughson,0.0
+city_Hume,0.0
+city_Huntington Beach,0.0
+city_Huntington Park,0.0
+city_Huron,0.0
+city_Hyampom,0.0
+city_Hydesville,0.0
+city_Idyllwild,0.0
+city_Igo,0.0
+city_Imperial,0.0
+city_Imperial Beach,0.0
+city_Independence,0.0
+city_Indian Wells,0.0
+city_Indio,0.0
+city_Inverness,0.0
+city_Inyokern,0.0
+city_Ione,0.0
+city_Isleton,0.0
+city_Ivanhoe,0.0
+city_Jackson,0.0
+city_Jacumba,0.0
+city_Jamestown,0.0
+city_Jamul,0.0
+city_Janesville,0.0
+city_Jenner,0.0
+city_Johannesburg,0.0
+city_Jolon,0.0
+city_Joshua Tree,0.0
+city_Julian,0.0
+city_Junction City,0.0
+city_June Lake,0.0
+city_Keeler,0.0
+city_Keene,0.0
+city_Kelseyville,0.0
+city_Kenwood,0.0
+city_Kerman,0.0
+city_Kernville,0.0
+city_Kettleman City,0.0
+city_Keyes,0.0
+city_King City,0.0
+city_Kings Beach,0.0
+city_Kingsburg,0.0
+city_Kirkwood,0.0
+city_Klamath,0.0
+city_Klamath River,0.0
+city_Kneeland,0.0
+city_Knights Landing,0.0
+city_Korbel,0.0
+city_Kyburz,0.0
+city_La Canada Flintridge,0.0
+city_La Crescenta,0.0
+city_La Grange,0.0
+city_La Habra,0.0
+city_La Honda,0.0
+city_La Jolla,0.0
+city_La Mirada,0.0
+city_La Palma,0.0
+city_La Puente,0.0
+city_La Quinta,0.0
+city_La Verne,0.0
+city_Ladera Ranch,0.0
+city_Lafayette,0.0
+city_Laguna Beach,0.0
+city_Laguna Hills,0.0
+city_Laguna Niguel,0.0
+city_Lagunitas,0.0
+city_Lake Arrowhead,0.0
+city_Lake City,0.0
+city_Lake Forest,0.0
+city_Lake Hughes,0.0
+city_Lake Isabella,0.0
+city_Lakehead,0.0
+city_Lakeport,0.0
+city_Lakeshore,0.0
+city_Lakeside,0.0
+city_Lakewood,0.0
+city_Lamont,0.0
+city_Lancaster,0.0
+city_Landers,0.0
+city_Larkspur,0.0
+city_Lathrop,0.0
+city_Laton,0.0
+city_Lawndale,0.0
+city_Laytonville,0.0
+city_Le Grand,0.0
+city_Lebec,0.0
+city_Lee Vining,0.0
+city_Leggett,0.0
+city_Lemon Cove,0.0
+city_Lemon Grove,0.0
+city_Lemoore,0.0
+city_Lewiston,0.0
+city_Likely,0.0
+city_Lincoln,0.0
+city_Linden,0.0
+city_Lindsay,0.0
+city_Litchfield,0.0
+city_Little River,0.0
+city_Littlerock,0.0
+city_Live Oak,0.0
+city_Livermore,0.0
+city_Livingston,0.0
+city_Llano,0.0
+city_Lockeford,0.0
+city_Lockwood,0.0
+city_Lodi,0.0
+city_Loleta,0.0
+city_Loma Linda,0.0
+city_Loma Mar,0.0
+city_Lomita,0.0
+city_Lompoc,0.0
+city_Lone Pine,0.0
+city_Long Barn,0.0
+city_Zenia,0.0
+city_Lookout,0.0
+city_Loomis,0.0
+city_Los Alamitos,0.0
+city_Los Alamos,0.0
+city_Los Altos,0.0
+city_Woodacre,0.0
+city_Los Banos,0.0
+city_Los Gatos,0.0
+city_Los Molinos,0.0
+city_Los Olivos,0.0
+city_Los Osos,0.0
+city_Lost Hills,0.0
+city_Lotus,0.0
+city_Lower Lake,0.0
+city_Loyalton,0.0
+city_Lucerne,0.0
+city_Lucerne Valley,0.0
+city_Ludlow,0.0
+city_Lynwood,0.0
+city_Lytle Creek,0.0
+city_Macdoel,0.0
+city_Mad River,0.0
+city_Madeline,0.0
+city_Madera,0.0
+city_Madison,0.0
+city_Magalia,0.0
+city_Malibu,0.0
+city_Mammoth Lakes,0.0
+city_Manchester,0.0
+city_Manhattan Beach,0.0
+city_Manteca,0.0
+city_Manton,0.0
+city_March Air Reserve Base,0.0
+city_Maricopa,0.0
+city_Marina,0.0
+city_Marina Del Rey,0.0
+city_Mariposa,0.0
+city_Markleeville,0.0
+city_Marshall,0.0
+city_Martinez,0.0
+city_Marysville,0.0
+city_Mather,0.0
+city_Maxwell,0.0
+city_Maywood,0.0
+city_Mc Farland,0.0
+city_Mcarthur,0.0
+city_Mccloud,0.0
+city_Mckinleyville,0.0
+city_Meadow Valley,0.0
+city_Meadow Vista,0.0
+city_Mecca,0.0
+city_Mendocino,0.0
+city_Mendota,0.0
+city_Menifee,0.0
+city_Menlo Park,0.0
+city_Mentone,0.0
+city_Merced,0.0
+city_Meridian,0.0
+city_Mi Wuk Village,0.0
+city_Middletown,0.0
+city_Midpines,0.0
+city_Midway City,0.0
+city_Milford,0.0
+city_Mill Creek,0.0
+city_Mill Valley,0.0
+city_Millbrae,0.0
+city_Millville,0.0
+city_Milpitas,0.0
+city_Mineral,0.0
+city_Mira Loma,0.0
+city_Miramonte,0.0
+city_Miranda,0.0
+city_Mission Hills,0.0
+city_Mission Viejo,0.0
+city_Woodlake,0.0
+city_Mojave,0.0
+city_Mokelumne Hill,0.0
+city_Monrovia,0.0
+city_Montague,0.0
+city_Montara,0.0
+city_Montclair,0.0
+city_Monte Rio,0.0
+city_Montebello,0.0
+city_Monterey,0.0
+city_Monterey Park,0.0
+city_Montgomery Creek,0.0
+city_Montrose,0.0
+city_Moorpark,0.0
+city_Moraga,0.0
+city_Moreno Valley,0.0
+city_Morgan Hill,0.0
+city_Morongo Valley,0.0
+city_Morro Bay,0.0
+city_Moss Beach,0.0
+city_Moss Landing,0.0
+city_Mount Hamilton,0.0
+city_Mount Hermon,0.0
+city_Mount Laguna,0.0
+city_Mount Shasta,0.0
+city_Mountain Center,0.0
+city_Mountain Ranch,0.0
+city_Mountain View,0.0
+city_Mt Baldy,0.0
+city_Murphys,0.0
+city_Murrieta,0.0
+city_Myers Flat,0.0
+city_Napa,0.0
+city_National City,0.0
+city_Navarro,0.0
+city_Needles,0.0
+city_Nevada City,0.0
+city_New Cuyama,0.0
+city_Newark,0.0
+city_Newberry Springs,0.0
+city_Newbury Park,0.0
+city_Newcastle,0.0
+city_Newhall,0.0
+city_Newman,0.0
+city_Woodland,0.0
+city_Newport Coast,0.0
+city_Nicasio,0.0
+city_Nice,0.0
+city_Nicolaus,0.0
+city_Niland,0.0
+city_Nipomo,0.0
+city_Nipton,0.0
+city_Norco,0.0
+city_North Fork,0.0
+city_North Highlands,0.0
+city_North Hills,0.0
+city_Woodland Hills,0.0
+city_North Palm Springs,0.0
+city_North San Juan,0.0
+city_Northridge,0.0
+city_Norwalk,0.0
+city_Novato,0.0
+city_Nubieber,0.0
+city_Nuevo,0.0
+city_O Neals,0.0
+city_Oak Park,0.0
+city_Oak Run,0.0
+city_Oak View,0.0
+city_Oakdale,0.0
+city_Oakhurst,0.0
+city_Oakland,0.0
+city_Oakley,0.0
+city_Occidental,0.0
+city_Oceano,0.0
+city_Oceanside,0.0
+city_Ocotillo,0.0
+city_Ojai,0.0
+city_Olancha,0.0
+city_Old Station,0.0
+city_Olema,0.0
+city_Olivehurst,0.0
+city_Olympic Valley,0.0
+city_Ontario,0.0
+city_Onyx,0.0
+city_Woody,0.0
+city_Orange Cove,0.0
+city_Orangevale,0.0
+city_Oregon House,0.0
+city_Orick,0.0
+city_Orinda,0.0
+city_Orland,0.0
+city_Orleans,0.0
+city_Oro Grande,0.0
+city_Orosi,0.0
+city_Oroville,0.0
+city_Oxnard,0.0
+city_Pacific Grove,0.0
+city_Pacific Palisades,0.0
+city_Pacifica,0.0
+city_Pacoima,0.0
+city_Paicines,0.0
+city_Pala,0.0
+city_Palermo,0.0
+city_Wrightwood,0.0
+city_Palm Springs,0.0
+city_Yermo,0.0
+city_Yorba Linda,0.0
+city_Palo Cedro,0.0
+city_Palo Verde,0.0
+city_Palomar Mountain,0.0
+city_Palos Verdes Peninsula,0.0
+city_Panorama City,0.0
+city_Paradise,0.0
+city_Paramount,0.0
+city_Parker Dam,0.0
+city_Parlier,0.0
+city_Pasadena,0.0
+city_Paskenta,0.0
+city_Paso Robles,0.0
+city_Patterson,0.0
+city_Pauma Valley,0.0
+city_Paynes Creek,0.0
+city_Pearblossom,0.0
+city_Pebble Beach,0.0
+city_Penn Valley,0.0
+city_Penngrove,0.0
+city_Penryn,0.0
+city_Perris,0.0
+city_Pescadero,0.0
+city_Petaluma,0.0
+city_Petrolia,0.0
+city_Phelan,0.0
+city_Phillipsville,0.0
+city_Philo,0.0
+city_Pico Rivera,0.0
+city_Piercy,0.0
+city_Pilot Hill,0.0
+city_Pine Grove,0.0
+city_Pine Valley,0.0
+city_Pinecrest,0.0
+city_Pinole,0.0
+city_Pinon Hills,0.0
+city_Pioneer,0.0
+city_Pioneertown,0.0
+city_Piru,0.0
+city_Pismo Beach,0.0
+city_Pittsburg,0.0
+city_Pixley,0.0
+city_Placentia,0.0
+city_Placerville,0.0
+city_Planada,0.0
+city_Platina,0.0
+city_Playa Del Rey,0.0
+city_Pleasant Grove,0.0
+city_Pleasant Hill,0.0
+city_Pleasanton,0.0
+city_Plymouth,0.0
+city_Point Arena,0.0
+city_Point Reyes Station,0.0
+city_Pollock Pines,0.0
+city_Yorkville,0.0
+city_Pope Valley,0.0
+city_Port Costa,0.0
+city_Port Hueneme,0.0
+city_Porter Ranch,0.0
+city_Porterville,0.0
+city_Portola,0.0
+city_Portola Valley,0.0
+city_Posey,0.0
+city_Potrero,0.0
+city_Potter Valley,0.0
+city_Poway,0.0
+city_Prather,0.0
+city_Princeton,0.0
+city_Quincy,0.0
+city_Raisin City,0.0
+city_Ramona,0.0
+city_Ranchita,0.0
+city_Rancho Cordova,0.0
+city_Yosemite National Park,0.0
+city_Rancho Mirage,0.0
+city_Rancho Palos Verdes,0.0
+city_Rancho Santa Fe,0.0
+city_Rancho Santa Margarita,0.0
+city_Randsburg,0.0
+city_Ravendale,0.0
+city_Raymond,0.0
+city_Red Bluff,0.0
+city_Redcrest,0.0
+city_Redding,0.0
+city_Redlands,0.0
+city_Yountville,0.0
+city_Redway,0.0
+city_Yreka,0.0
+city_Redwood Valley,0.0
+city_Reedley,0.0
+city_Rescue,0.0
+city_Reseda,0.0
+city_Rialto,0.0
+city_Richgrove,0.0
+city_Richmond,0.0
+city_Richvale,0.0
+city_Yuba City,0.0
+city_Rio Dell,0.0
+city_Rio Linda,0.0
+city_Rio Nido,0.0
+city_Rio Oso,0.0
+city_Rio Vista,0.0
+city_Ripon,0.0
+city_River Pines,0.0
+city_Riverbank,0.0
+city_Riverdale,0.0
+city_Riverside,0.0
+city_Rocklin,0.0
+city_Rodeo,0.0
+city_Rohnert Park,0.0
+city_Rosamond,0.0
+city_Rosemead,0.0
+city_Yucaipa,0.0
+city_Rough And Ready,0.0
+city_Round Mountain,0.0
+city_Rowland Heights,0.0
+city_Running Springs,0.0
+city_Yucca Valley,0.0
+city_Saint Helena,0.0
+city_Salida,0.0
+city_Salinas,0.0
+city_Salton City,0.0
+city_Salyer,0.0
+city_Samoa,0.0
+city_San Andreas,0.0
+city_San Anselmo,0.0
+city_San Ardo,0.0
+city_San Bernardino,0.0
+city_San Bruno,0.0
+city_San Carlos,0.0
+city_San Clemente,0.0
+city_Willits,0.0
+city_San Dimas,0.0
+city_San Fernando,0.0
+country_United States,0.0
+city_San Gabriel,0.0
+city_San Geronimo,0.0
+city_San Gregorio,0.0
+city_San Jacinto,0.0
+city_San Joaquin,0.0
+state_California,0.0
+city_San Juan Bautista,0.0
+city_San Juan Capistrano,0.0
+city_San Leandro,0.0
+city_San Lorenzo,0.0
+city_San Lucas,0.0
+city_San Luis Obispo,0.0
+city_San Marcos,0.0
+city_San Marino,0.0
+city_San Martin,0.0
+city_San Mateo,0.0
+city_San Miguel,0.0
+city_San Pablo,0.0
+city_San Pedro,0.0
+city_San Quentin,0.0
+city_San Rafael,0.0
+city_San Ramon,0.0
+city_San Simeon,0.0
+city_San Ysidro,0.0
+city_Sanger,0.0
+city_Santa Ana,0.0
+city_Acampo,0.0
+city_Santa Clara,0.0
+city_Santa Clarita,0.0
+city_Santa Cruz,0.0
+city_Santa Fe Springs,0.0
+city_Santa Margarita,0.0
+city_Acton,0.0
+city_Adelanto,0.0
+city_Santa Paula,0.0
+city_Santa Rosa,0.0
+city_Santa Ynez,0.0
+city_Santa Ysabel,0.0
+city_Santee,0.0
+city_Saratoga,0.0
+city_Sausalito,0.0
+city_Scotia,0.0
+city_Scott Bar,0.0
+city_Scotts Valley,0.0
+city_Seal Beach,0.0
+city_Seaside,0.0
+city_Sebastopol,0.0
+city_Seeley,0.0
+city_Seiad Valley,0.0
+city_Selma,0.0
+city_Sequoia National Park,0.0
+city_Shafter,0.0
+city_Shandon,0.0
+city_Shasta,0.0
+city_Shasta Lake,0.0
+city_Shaver Lake,0.0
+city_Sheep Ranch,0.0
+city_Sheridan,0.0
+city_Sherman Oaks,0.0
+city_Shingle Springs,0.0
+city_Shingletown,0.0
+city_Shoshone,0.0
+city_Sierra City,0.0
+city_Sierra Madre,0.0
+city_Sierraville,0.0
+city_Silverado,0.0
+city_Simi Valley,0.0
+city_Sloughhouse,0.0
+city_Smartville,0.0
+city_Smith River,0.0
+city_Snelling,0.0
+city_Soda Springs,0.0
+city_Solana Beach,0.0
+city_Soledad,0.0
+city_Solvang,0.0
+city_Somerset,0.0
+city_Somes Bar,0.0
+city_Somis,0.0
+city_Sonoma,0.0
+city_Sonora,0.0
+city_Soquel,0.0
+city_Soulsbyville,0.0
+city_South Dos Palos,0.0
+city_South El Monte,0.0
+city_South Gate,0.0
+city_South Lake Tahoe,0.0
+city_South Pasadena,0.0
+city_South San Francisco,0.0
+city_Spreckels,0.0
+city_Spring Valley,0.0
+city_Springville,0.0
+city_Squaw Valley,0.0
+city_Standish,0.0
+city_Stanford,0.0
+city_Stanton,0.0
+city_Stevenson Ranch,0.0
+city_Stevinson,0.0
+city_Stinson Beach,0.0
+city_Stirling City,0.0
+city_Adin,0.0
+city_Stonyford,0.0
+city_Stratford,0.0
+city_Strathmore,0.0
+city_Strawberry Valley,0.0
+city_Studio City,0.0
+city_Sugarloaf,0.0
+city_Suisun City,0.0
+city_Sultana,0.0
+city_Ridgecrest,0.0
+city_Sun City,0.0
+city_Sun Valley,0.0
+city_Sunland,0.0
+city_Sunnyvale,0.0
+city_Sunol,0.0
+city_Sunset Beach,0.0
+city_Surfside,0.0
+city_Susanville,0.0
+city_Sutter,0.0
+city_Sutter Creek,0.0
+city_Sylmar,0.0
+city_Taft,0.0
+city_Tahoe City,0.0
+city_Tahoe Vista,0.0
+city_Tahoma,0.0
+city_Tarzana,0.0
+city_Taylorsville,0.0
+city_Tecate,0.0
+city_Tecopa,0.0
+city_Tehachapi,0.0
+city_Tehama,0.0
+city_Agoura Hills,0.0
+city_Temple City,0.0
+city_Templeton,0.0
+city_Termo,0.0
+city_Terra Bella,0.0
+city_The Sea Ranch,0.0
+city_Thermal,0.0
+city_Thornton,0.0
+city_Thousand Oaks,0.0
+city_Thousand Palms,0.0
+city_Three Rivers,0.0
+city_Tipton,0.0
+city_Tollhouse,0.0
+city_Tomales,0.0
+city_Topanga,0.0
+city_Topaz,0.0
+city_Aguanga,0.0
+city_Trabuco Canyon,0.0
+city_Tracy,0.0
+city_Tranquillity,0.0
+city_Traver,0.0
+city_Travis Afb,0.0
+city_Trinidad,0.0
+city_Trinity Center,0.0
+city_Trona,0.0
+city_Truckee,0.0
+city_Tujunga,0.0
+city_Tulare,0.0
+city_Tulelake,0.0
+city_Tuolumne,0.0
+city_Tupman,0.0
+city_Turlock,0.0
+city_Tustin,0.0
+city_Twain,0.0
+city_Twain Harte,0.0
+city_Twentynine Palms,0.0
+city_Twin Bridges,0.0
+city_Ukiah,0.0
+city_Union City,0.0
+city_Upland,0.0
+city_Upper Lake,0.0
+city_Vacaville,0.0
+city_Valencia,0.0
+city_Vallecito,0.0
+city_Ahwahnee,0.0
+city_Valley Center,0.0
+city_Valley Ford,0.0
+city_Valley Springs,0.0
+city_Valley Village,0.0
+city_Valyermo,0.0
+city_Alameda,0.0
+city_Venice,0.0
+city_Ventura,0.0
+city_Vernalis,0.0
+city_Victorville,0.0
+city_Vidal,0.0
+city_Villa Park,0.0
+city_Vina,0.0
+city_Visalia,0.0
+city_Vista,0.0
+city_Volcano,0.0
+city_Wallace,0.0
+city_Walnut,0.0
+city_Walnut Creek,0.0
+city_Walnut Grove,0.0
+city_Warner Springs,0.0
+city_Wasco,0.0
+city_Washington,0.0
+city_Waterford,0.0
+city_Watsonville,0.0
+city_Weaverville,0.0
+city_Weed,0.0
+city_Weimar,0.0
+city_Weldon,0.0
+city_Wendel,0.0
+city_Weott,0.0
+city_Alamo,0.0
+city_West Hills,0.0
+city_West Hollywood,0.0
+city_West Point,0.0
+city_West Sacramento,0.0
+city_Westlake Village,0.0
+city_Westley,0.0
+city_Westminster,0.0
+city_Westmorland,0.0
+city_Westport,0.0
+city_Westwood,0.0
+city_Wheatland,0.0
+city_White Water,0.0
+city_Whitethorn,0.0
+city_Whitmore,0.0
+city_Albany,0.0
+city_Wildomar,0.0
+city_Williams,0.0
+city_Albion,0.0
+city_Alderpoint,0.0
+city_Alhambra,0.0
+city_Aliso Viejo,0.0
+city_Alleghany,0.0
+city_Alpaugh,0.0
+city_Alpine,0.0
+city_Alta,0.0
+city_Altadena,0.0
+city_Alturas,0.0
+city_Alviso,0.0
+city_Amador City,0.0
+city_Amboy,0.0
+city_Anderson,0.0
+city_Angels Camp,0.0
+city_Woodbridge,0.0
+city_Angelus Oaks,0.0
+city_Willow Creek,0.0
+city_Willows,0.0
+city_Wilmington,0.0
+city_Wilseyville,0.0
+city_Wilton,0.0
+city_Winchester,0.0
+city_Windsor,0.0
+city_Winnetka,0.0
+city_Winterhaven,0.0
+city_Winters,0.0
+city_Winton,0.0
+city_Wishon,0.0
+city_Witter Springs,0.0
+city_Wofford Heights,0.0
+city_Summerland,0.0

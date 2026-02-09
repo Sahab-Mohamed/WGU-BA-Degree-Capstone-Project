@@ -1,0 +1,9 @@
+model,actual,predicted,count,type
+Logistic Regression,Churned,Churned,260,True Positive
+Logistic Regression,Not Churned,Not Churned,1145,True Negative
+Logistic Regression,Not Churned,Churned,149,False Positive
+Logistic Regression,Churned,Not Churned,207,False Negative
+Random Forest,Churned,Churned,369,True Positive
+Random Forest,Not Churned,Not Churned,947,True Negative
+Random Forest,Not Churned,Churned,347,False Positive
+Random Forest,Churned,Not Churned,98,False Negative

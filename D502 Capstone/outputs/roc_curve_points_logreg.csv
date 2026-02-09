@@ -1,0 +1,5 @@
+model,fpr,tpr,threshold
+logistic_regression,0.0,0.0,inf
+logistic_regression,0.0,0.00267379679144385,0.9978088916620802
+logistic_regression,0.0,1.0,0.9519361171174291
+logistic_regression,1.0,1.0,7.384858001958911e-05
